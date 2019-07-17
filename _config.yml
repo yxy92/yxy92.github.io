@@ -1,6 +1,8 @@
 layout: sidebar
 style: light
 
+# theme:minima # add officialy supported themes, uncomment # to make it work
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
@@ -47,12 +49,14 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Mathematical modeling of Biology
-    web_url: https://github.com/topics/css
+  - name: Mathematical modeling in Biology
+    web_url: https://chen.biol.vt.edu
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Data Analytics
+  - name: Circadian Rhythm
+    web_url: https://www.nigms.nih.gov/education/pages/factsheet_circadianrhythms.aspx
+    image_url: https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.springernature.com%2Fm685%2Fspringer-static%2Fimage%2Fart%253A10.1038%252Fs41591-018-0271-8%2FMediaObjects%2F41591_2018_271_Fig1_HTML.png&imgrefurl=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41591-018-0271-8&docid=69rebe2IDLbViM&tbnid=5KQcdKVRWx0HnM%3A&vet=10ahUKEwjpqerryrzjAhWKTd8KHfKmCxwQMwiBASgDMAM..i&w=685&h=517&client=safari&bih=763&biw=1324&q=circadian%20rhythm&ved=0ahUKEwjpqerryrzjAhWKTd8KHfKmCxwQMwiBASgDMAM&iact=mrc&uact=8
 
-  - name: Deep Learning
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Artificial Intelligence
+    web_url: https://ai.google
+    image_url: https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn1.itpro.co.uk%2Fsites%2Fitpro%2Ffiles%2Fstyles%2Farticle_main_wide_image%2Fpublic%2F2018%2F02%2Fshutterstock_561931702.jpg%3Fitok%3DLXPgi7DO&imgrefurl=https%3A%2F%2Fwww.itpro.co.uk%2Fstrategy%2F28181%2Fwhat-is-ai&docid=WyAddjRB-BmLDM&tbnid=C_ua_6MirzWcEM%3A&vet=10ahUKEwjktLC9yrzjAhXrmuAKHU6xBP8QMwgsKAEwAQ..i&w=620&h=349&client=safari&bih=763&biw=1324&q=AI&ved=0ahUKEwjktLC9yrzjAhXrmuAKHU6xBP8QMwgsKAEwAQ&iact=mrc&uact=8
