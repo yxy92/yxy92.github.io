@@ -1,7 +1,7 @@
 layout: sidebar
 style: light
 
-# theme:minima # add officialy supported themes, uncomment # to make it work
+theme:minima # add officialy supported themes, uncomment # to make it work
 
 plugins:
   - jekyll-octicons
