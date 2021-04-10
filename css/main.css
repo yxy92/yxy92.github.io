@@ -23,7 +23,7 @@ ul {
     padding: 0;
 }
 li {
-    display: block;
+    display: inline;
     flex: 0 1 auto; /* Default */
     list-style-type: none;
 }
