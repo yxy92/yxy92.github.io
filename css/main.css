@@ -51,8 +51,8 @@ html {
 }
 
 
-#avatar {
-    /* This image is 687 wide by 1024 tall, similar to your aspect ratio */
+avatar {
+
     background-image: url('../image/twitter_avatar.jpg');
     
     /* make a square container */
