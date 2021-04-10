@@ -1,8 +1,6 @@
 # _config.yml is a basic golbal setting of the whole site
 
-theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 
 
 # top level stuff you probably don't need to touch
