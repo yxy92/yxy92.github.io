@@ -1,3 +1,6 @@
+# _config.yml is a basic golbal setting of the whole site
+
+
 # top level stuff you probably don't need to touch
 highlighter: rouge
 markdown: kramdown
