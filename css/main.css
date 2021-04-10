@@ -27,3 +27,5 @@ li {
     flex: 0 1 auto; /* Default */
     list-style-type: none;
 }
+
+.search-result a {text-decoration: none}
