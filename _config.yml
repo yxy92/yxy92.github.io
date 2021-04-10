@@ -1,62 +1,30 @@
-layout: sidebar
-style: light
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 3000
+safe: true
 
-theme:minima # add officialy supported themes, uncomment # to make it work
 
-plugins:
-  - jekyll-octicons
-  - jekyll-github-metadata
-  - jemoji
+# edit here to achieve your personal greatness
+url: http://yxy92.github.io/
+baseurl: /sustain/
+title: Xiangyu Yao
+description: Personal blog and resume
+#avatar: profile.png
+email: jacky92@vt.edu
+#github: yxy92 # username
+#twitter: username
+#linkedin: username
+#stackoverflow: username   #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus
+#disqus: username
+#google_analytics: UA-69391421-1
 
-permalink: /:year/:month/:day/:title/
 
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts"
-    values:
-      layout: "post"
-
-projects:
-  sort_by: pushed
-  # sort_by options:
-  #   - pushed
-  #   - stars
-  limit: 9
-  exclude:
-    archived: false
-    forks: true
-    projects:
-    # - repo-name
-
-social_media:
-  # behance: your_username
-  # dribbble: your_username
-   facebook: drynoodle92
-  # hackerrank: your_username
-  # instagram: your_username
-  # keybase: your_username
-  # linkedin: your_username
-  # mastodon: your_username
-  # medium: your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-   twitter: yxybio
-  # unsplash: your_username
-  # vk: your_username
-   website: yxy92.github.io
-  # youtube: your_username
-
-topics:
-  - name: Mathematical modeling in Biology
-    web_url: https://chen.biol.vt.edu
-    image_url: 
-
-  - name: Circadian Rhythm
-    web_url: https://www.nigms.nih.gov/education/pages/factsheet_circadianrhythms.aspx
-    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Biological_clock_human.svg/440px-Biological_clock_human.svg.png
-
-  - name: Artificial Intelligence
-    web_url: https://ai.google
-    image_url: https://pbs.twimg.com/media/CZzDIl4WIAAk42M.jpg
+# needed for travis-ci build
+exclude: [vendor]
