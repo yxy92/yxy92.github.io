@@ -3,7 +3,6 @@ highlighter: rouge
 markdown: kramdown
 rdiscount:
   extensions: [smart]
-permalink: /:title.html
 paginate: 5
 plugins: [jekyll-paginate]
 port: 3000
@@ -26,5 +25,4 @@ email: jacky92@vt.edu
 #google_analytics: UA-69391421-1
 
 
-# needed for travis-ci build
-exclude: [vendor]
+
