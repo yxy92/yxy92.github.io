@@ -4,13 +4,8 @@
 			<title>{{ site.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			
-			{% if page.title %}
-      			<title>{{ page.title }}</title>
-    			{% else %}
-      			<title>{{ site.title }}</title>
-    			{% endif %}
 		</head>
+		
 		<body>
 			<nav>
 	    		<ul>
@@ -21,18 +16,14 @@
 	    		</ul>
 			</nav>
 		
- 			 <!-- Wrap all page content here -->
+ 
   			 <div id="wrap">
-   			 <!-- Navbar header -->
+   
 
     			{{ content }}
 
  			 </div>
 			
 			
-
-
-		
-
 		</body>
 	</html>
