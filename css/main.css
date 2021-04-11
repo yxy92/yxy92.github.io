@@ -26,6 +26,7 @@ li {
     display: inline;
     flex: 0 1 auto; /* Default */
     list-style-type: none;
+    text-align:center;
 }
 
 
