@@ -1,0 +1,22 @@
+---
+title: "Welcome"
+description: "The first post on my new blog."
+date: "2026-08-04"
+categories: [notes]
+---
+
+This is the first post on my new Quarto blog.
+
+Posts are written in plain-text `.qmd` files. Markdown handles most everyday formatting:
+
+## A section heading
+
+You can use **bold text**, *italics*, [links](https://quarto.org), lists, images, equations, and code.
+
+```{python}
+#| eval: false
+message = "Hello, world!"
+print(message)
+```
+
+Edit this file or replace it with your own first post.

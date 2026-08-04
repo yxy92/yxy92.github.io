@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+Hello! I’m **YXY**.
+
+This is my personal corner of the web—a place for notes, ideas, and things I want to remember. Replace this paragraph with a short introduction about yourself and what you plan to write about.
+
+## Elsewhere
+
+- [GitHub](https://github.com/yxy92)
