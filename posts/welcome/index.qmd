@@ -13,8 +13,7 @@ Posts are written in plain-text `.qmd` files. Markdown handles most everyday for
 
 You can use **bold text**, *italics*, [links](https://quarto.org), lists, images, equations, and code.
 
-```{python}
-#| eval: false
+```python
 message = "Hello, world!"
 print(message)
 ```
