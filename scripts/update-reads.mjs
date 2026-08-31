@@ -23,5 +23,14 @@ const current=JSON.parse(await fs.readFile(path.join(root,"data/reads.json"),"ut
 const results=await Promise.allSettled(sources.map(async s=>parseFeed(await fetchText(s.feed),s)));let candidates=results.flatMap(r=>r.status==="fulfilled"?r.value:[]).filter(x=>!seen.has(x.url));candidates=candidates.filter(x=>!x.published||Date.now()-new Date(x.published).getTime()<45*864e5);
 const inspected=(await Promise.all(candidates.slice(0,45).map(inspect))).filter(Boolean).filter(x=>x.minutes>=10&&x.minutes<=30);inspected.sort((a,b)=>(b.weight+(Date.parse(b.published)||0)/1e13)-(a.weight+(Date.parse(a.published)||0)/1e13));
 const chosen=[],fields=new Set(),publications=new Map();for(const item of inspected){if(fields.has(item.field)||((publications.get(item.publication)||0)>=1&&chosen.length<4))continue;chosen.push(item);fields.add(item.field);publications.set(item.publication,(publications.get(item.publication)||0)+1);if(chosen.length===5)break;}for(const item of inspected){if(chosen.length===5)break;if(!chosen.some(x=>x.url===item.url))chosen.push(item);}if(chosen.length<5)for(const item of current.reads){if(chosen.length===5)break;if(!chosen.some(x=>x.url===item.url))chosen.push(item);}
-const now=new Date(),date=now.toISOString().slice(0,10),payload={date,edition:Math.floor((Date.UTC(now.getUTCFullYear(),now.getUTCMonth(),now.getUTCDate())-Date.UTC(2026,0,1))/864e5)+1,reads:chosen.slice(0,5).map(x=>({field:x.field,minutes:x.minutes,title:x.title,author:x.author,publication:x.publication,url:x.url,note:x.note}))};
-await fs.writeFile(path.join(root,"data/reads.json"),JSON.stringify(payload,null,2)+"\n");const merged=[...recentHistory,...payload.reads.map(x=>({url:x.url,featuredAt:date}))].filter((x,i,a)=>a.findIndex(y=>y.url===x.url)===i);await fs.writeFile(path.join(root,"data/history.json"),JSON.stringify(merged,null,2)+"\n");console.log(`Selected ${payload.reads.length} reads from ${inspected.length} eligible essays.`);
+const now=new Date(),date=now.toISOString().slice(0,10),issuesDir=path.join(root,"data/issues");
+await fs.mkdir(issuesDir,{recursive:true});
+await fs.writeFile(path.join(issuesDir,`${current.date}.json`),JSON.stringify(current,null,2)+"\n");
+const issueFiles=(await fs.readdir(issuesDir)).filter(x=>x.endsWith(".json"));
+const savedIssues=await Promise.all(issueFiles.map(async file=>JSON.parse(await fs.readFile(path.join(issuesDir,file),"utf8"))));
+const nextEdition=current.date===date?current.edition:Math.max(0,...savedIssues.map(x=>x.edition||0))+1;
+const payload={date,edition:nextEdition,reads:chosen.slice(0,5).map(x=>({field:x.field,minutes:x.minutes,title:x.title,author:x.author,publication:x.publication,url:x.url,note:x.note}))};
+await fs.writeFile(path.join(root,"data/reads.json"),JSON.stringify(payload,null,2)+"\n");
+await fs.writeFile(path.join(issuesDir,`${date}.json`),JSON.stringify(payload,null,2)+"\n");
+const merged=[...recentHistory,...payload.reads.map(x=>({url:x.url,featuredAt:date}))].filter((x,i,a)=>a.findIndex(y=>y.url===x.url)===i);
+await fs.writeFile(path.join(root,"data/history.json"),JSON.stringify(merged,null,2)+"\n");console.log(`Selected ${payload.reads.length} reads for Issue ${payload.edition} from ${inspected.length} eligible essays.`);
