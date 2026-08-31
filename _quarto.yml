@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - five-daily/**
 
 website:
   title: "YXY Blog"
@@ -11,6 +13,8 @@ website:
         text: Blog
       - href: about.qmd
         text: About
+      - href: five-daily/index.html
+        text: Five Daily
     right:
       - icon: github
         href: https://github.com/yxy92

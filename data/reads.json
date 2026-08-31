@@ -1,0 +1,11 @@
+{
+  "date": "2026-08-31",
+  "edition": 243,
+  "reads": [
+    {"field":"Mathematics","minutes":13,"title":"‘Stunning’ Percolation Proof Solves Decades-Old Puzzle About Phase Transitions","author":"Leila Sloman","publication":"Quanta Magazine","url":"https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/","note":"A major new proof resolves a decades-old question about how phase transitions behave."},
+    {"field":"Economics & Society","minutes":20,"title":"The Singapore strategies","author":"Peter A Coclanis","publication":"Aeon","url":"https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security","note":"What Singapore’s search for food security teaches us about efficiency, resilience, and self-sufficiency."},
+    {"field":"Philosophy","minutes":11,"title":"Subjective Perspective Makes Objective Reality ‘Everywhere Whole’","author":"Nathan Gardels","publication":"Noema","url":"https://www.noemamag.com/subjective-perspective-makes-objective-reality-everywhere-whole","note":"A meeting of philosophy, physics, neuroscience, and religion asks how perspective shapes objective reality."},
+    {"field":"Mind","minutes":16,"title":"How to Think About Thinking","author":"Kristen French","publication":"Nautilus","url":"https://nautil.us/how-to-think-about-thinking-1284587/","note":"A conversation with neuroscientist Adrian Owen about executive function and the hidden machinery of thought."},
+    {"field":"Technology","minutes":13,"title":"Does Computer Science Need Computers?","author":"Ben Brubaker","publication":"Quanta Magazine","url":"https://www.quantamagazine.org/does-computer-science-need-computers-20260828/","note":"A tour of the surprising places where computer science becomes an abstract study of information and logic."}
+  ]
+}
