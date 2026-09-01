@@ -1,7 +1,42 @@
 [
-  {"url":"https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/","featuredAt":"2026-08-31"},
-  {"url":"https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security","featuredAt":"2026-08-31"},
-  {"url":"https://www.noemamag.com/subjective-perspective-makes-objective-reality-everywhere-whole","featuredAt":"2026-08-31"},
-  {"url":"https://nautil.us/how-to-think-about-thinking-1284587/","featuredAt":"2026-08-31"},
-  {"url":"https://www.quantamagazine.org/does-computer-science-need-computers-20260828/","featuredAt":"2026-08-31"}
+  {
+    "url": "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/",
+    "featuredAt": "2026-08-31"
+  },
+  {
+    "url": "https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security",
+    "featuredAt": "2026-08-31"
+  },
+  {
+    "url": "https://www.noemamag.com/subjective-perspective-makes-objective-reality-everywhere-whole",
+    "featuredAt": "2026-08-31"
+  },
+  {
+    "url": "https://nautil.us/how-to-think-about-thinking-1284587/",
+    "featuredAt": "2026-08-31"
+  },
+  {
+    "url": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
+    "featuredAt": "2026-08-31"
+  },
+  {
+    "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+    "featuredAt": "2026-09-01"
+  },
+  {
+    "url": "https://aeon.co/essays/play-is-doing-its-work-even-if-were-not-keeping-score",
+    "featuredAt": "2026-09-01"
+  },
+  {
+    "url": "https://www.noemamag.com/the-latest-chapter-in-american-military-muddling",
+    "featuredAt": "2026-09-01"
+  },
+  {
+    "url": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/",
+    "featuredAt": "2026-09-01"
+  },
+  {
+    "url": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
+    "featuredAt": "2026-09-01"
+  }
 ]
