@@ -3,49 +3,49 @@
   "edition": 245,
   "reads": [
     {
-      "field": "AI & Trust",
-      "minutes": 24,
-      "title": "‘If you build something vastly smarter than you, it better be on your side’: can we stop AI from deceiving us?",
-      "author": "Snigdha Poonam",
-      "publication": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/sep/01/if-you-build-something-vastly-smarter-than-you-it-better-be-on-your-side-can-we-stop-ai-from-deceiving-us",
-      "note": "A reported journey into the emerging science of machine deception—and the race to test whether increasingly capable AI systems are merely failing, strategically scheming, or learning to hide the difference."
+      "field": "Life & Earth",
+      "minutes": 15,
+      "title": "Genome Duplication Is a Radical Evolutionary Gamble",
+      "author": "Carrie Arnold",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/genome-duplication-is-a-radical-evolutionary-gamble-20260902/",
+      "note": "No larger than the head of a match, Potamopyrgus antipodarum doesn&rsquo;t look very impressive."
     },
     {
-      "field": "Science & Integrity",
-      "minutes": 26,
-      "title": "The Rise of the Science Sleuths",
-      "author": "Jessica Wapner",
-      "publication": "Undark",
-      "url": "https://undark.org/2024/09/11/the-rise-of-the-science-sleuths/",
-      "note": "Inside the loose international network finding manipulated images and fabricated data in published research—and the institutional resistance that turns a correction into a battle over how science polices itself."
+      "field": "Economics & Society",
+      "minutes": 14,
+      "title": "Optimized Offspring",
+      "author": "Brigida D'Agostino",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/optimized-offspring",
+      "note": "Five years ago, I sat in my OB-GYN’s office, three months pregnant, reading a stack of consent forms for noninvasive prenatal testing (NIPT) to find out whether my unborn…"
     },
     {
-      "field": "Mind & History",
-      "minutes": 19,
-      "title": "Fear and Fragility: The Glass Delusion and Its History",
-      "author": "Tamara Sanderson",
-      "publication": "The Public Domain Review",
-      "url": "https://publicdomainreview.org/essay/fear-and-fragility-the-glass-delusion-and-its-history/",
-      "note": "Why did people across early modern Europe become convinced that their bodies were made of glass? A history of a vanished delusion as a language for trauma, social pressure, transparency, and fear."
+      "field": "Mind",
+      "minutes": 16,
+      "title": "The fog of hunger",
+      "author": "Sarah Berg",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/a-hungry-woman-is-easier-to-dismiss-than-a-well-fed-woman",
+      "note": "From childhood, women are trained to restrict their appetite. And there’s a huge, hidden, cognitive price to pay for it - by Sarah Berg Read on…"
     },
     {
-      "field": "Music & Culture",
-      "minutes": 20,
-      "title": "Ladies of the ’80s",
-      "author": "Lisa Whittington-Hill",
-      "publication": "Longreads",
-      "url": "https://longreads.com/2026/08/27/80s-ladies-lisa-whittington-hill/",
-      "note": "A personal and cultural history of the women who remade 1980s popular music, expanded the era’s visual vocabulary, and showed generations of listeners how individuality could become a form of power."
+      "field": "Technology",
+      "minutes": 15,
+      "title": "When The AI Says To Kill",
+      "author": "Jess McHugh",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/when-the-ai-says-to-kill",
+      "note": "When James Perry committed a triple murder in 1993, he did it by the book."
     },
     {
-      "field": "Law & Civil Rights",
-      "minutes": 18,
-      "title": "To Dismantle the Concept of Separate but Equal, Thurgood Marshall Methodically Devised a Winning Strategy: Divide and Conquer",
-      "author": "Victor Luckerson",
-      "publication": "Smithsonian Magazine",
-      "url": "https://www.smithsonianmag.com/history/dismantle-concept-separate-equal-thurgood-marshall-methodically-devised-winning-strategy-divide-conquer-180989278/",
-      "note": "Brown v. Board did not arrive in a single leap. This account traces the students, cases, and deliberately accumulated precedents through which Thurgood Marshall made an entrenched legal doctrine collapse."
+      "field": "Technology",
+      "minutes": 11,
+      "title": "Introducing Noema Issue VII: The Next Axial Age",
+      "author": "Nathan Gardels",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/introducing-noema-issue-vii-the-next-axial-age",
+      "note": "Noema Magazine’s new print issue will be hot off the press very soon. This issue’s theme explores the possibility that we are entering a new “Axial Age.” Recent leaps in…"
     }
   ]
 }
