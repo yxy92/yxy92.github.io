@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-11",
+  "edition": 41,
+  "reads": [
+    {
+      "field": "History",
+      "minutes": 18,
+      "title": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",
+      "author": "Philip Ball",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/",
+      "note": "By the middle of the 20th century, it had begun to seem that biology was almost solved."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 17,
+      "title": "Barbara Ward’s vision",
+      "author": "Or Rosenboim",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/why-we-should-heed-barbara-wards-vision-of-planetary-justice",
+      "note": "She was among the first to argue that prosperity, equality and the protection of nature are inseparable planetary goals - by Or Rosenboim Read on…"
+    },
+    {
+      "field": "Technology",
+      "minutes": 15,
+      "title": "A Recipe to Stop AI from Going Rogue",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/a-recipe-for-stopping-ai-from-going-rogue-1285647/",
+      "note": "This formula aims to prevent LLMs from doing things that endanger…"
+    },
+    {
+      "field": "Technology",
+      "minutes": 12,
+      "title": "Does Claude Feel The Whip?",
+      "author": "Yaniv Regev",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/does-claude-feel-the-whip",
+      "note": "Someone recently built a digital whip to make Claude work faster. The tool, aptly named BadClaude , sits in your system tray and lets you drag an animated whip across the AI’s…"
+    },
+    {
+      "field": "History",
+      "minutes": 20,
+      "title": "The ghetto on the lagoon",
+      "author": "Alexander Lee",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/the-making-of-the-ghetto-on-a-venetian-island-in-1516",
+      "note": "Sixteenth-century Venice wanted to expel its Jews but couldn’t do without them."
+    }
+  ]
+}
