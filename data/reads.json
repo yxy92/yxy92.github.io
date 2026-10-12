@@ -1,7 +1,34 @@
 {
-  "date": "2026-10-11",
-  "edition": 41,
+  "date": "2026-10-12",
+  "edition": 42,
   "reads": [
+    {
+      "field": "Mathematics",
+      "minutes": 13,
+      "title": "Is ‘Attention’ the Essence of Intelligence?",
+      "author": "Natalie Wolchover",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+      "note": "Everything that&rsquo;s swept the world since the 2022 release of ChatGPT &mdash; &ldquo;the AI economy&rdquo;; data centers; chatbots acting as best friends, doctors, and…"
+    },
+    {
+      "field": "Mind",
+      "minutes": 22,
+      "title": "Is everything conscious?",
+      "author": "Sam Kimpton-Nye",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/does-the-principle-of-sufficient-reason-make-panpsychism-true",
+      "note": "If the question makes no sense to you, try spending some time with the principle of sufficient reason - by Sam Kimpton-Nye Read on…"
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 13,
+      "title": "I Seeded My Dreams and This Story Emerged",
+      "author": "Will Dowd",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/i-seeded-my-dreams-and-this-story-emerged-1285719/",
+      "note": "Poet Will Dowd let Jorge Luis Borges speak to him in his…"
+    },
     {
       "field": "History",
       "minutes": 18,
@@ -19,33 +46,6 @@
       "publication": "Aeon",
       "url": "https://aeon.co/essays/why-we-should-heed-barbara-wards-vision-of-planetary-justice",
       "note": "She was among the first to argue that prosperity, equality and the protection of nature are inseparable planetary goals - by Or Rosenboim Read on…"
-    },
-    {
-      "field": "Technology",
-      "minutes": 15,
-      "title": "A Recipe to Stop AI from Going Rogue",
-      "author": "Kristen French",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/a-recipe-for-stopping-ai-from-going-rogue-1285647/",
-      "note": "This formula aims to prevent LLMs from doing things that endanger…"
-    },
-    {
-      "field": "Technology",
-      "minutes": 12,
-      "title": "Does Claude Feel The Whip?",
-      "author": "Yaniv Regev",
-      "publication": "Noema",
-      "url": "https://www.noemamag.com/does-claude-feel-the-whip",
-      "note": "Someone recently built a digital whip to make Claude work faster. The tool, aptly named BadClaude , sits in your system tray and lets you drag an animated whip across the AI’s…"
-    },
-    {
-      "field": "History",
-      "minutes": 20,
-      "title": "The ghetto on the lagoon",
-      "author": "Alexander Lee",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/the-making-of-the-ghetto-on-a-venetian-island-in-1516",
-      "note": "Sixteenth-century Venice wanted to expel its Jews but couldn’t do without them."
     }
   ]
 }
