@@ -1,7 +1,25 @@
 {
-  "date": "2026-10-12",
-  "edition": 42,
+  "date": "2026-10-13",
+  "edition": 43,
   "reads": [
+    {
+      "field": "Mathematics",
+      "minutes": 21,
+      "title": "An Inside Look At How To Tame Unstoppable AI",
+      "author": "Anna August",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/an-inside-look-at-how-to-tame-unstoppable-ai",
+      "note": "Earlier this year, a university decided to audit the effectiveness of its new AI system designed to help answer student questions."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 17,
+      "title": "Deskilling the body",
+      "author": "Melanie Challenger",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
+      "note": "We are, moment by moment, doing less sensing, navigating, remembering, walking, choosing, and attending - by Melanie Challenger Read on…"
+    },
     {
       "field": "Mathematics",
       "minutes": 13,
@@ -28,24 +46,6 @@
       "publication": "Nautilus",
       "url": "https://nautil.us/i-seeded-my-dreams-and-this-story-emerged-1285719/",
       "note": "Poet Will Dowd let Jorge Luis Borges speak to him in his…"
-    },
-    {
-      "field": "History",
-      "minutes": 18,
-      "title": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",
-      "author": "Philip Ball",
-      "publication": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/",
-      "note": "By the middle of the 20th century, it had begun to seem that biology was almost solved."
-    },
-    {
-      "field": "Philosophy & Culture",
-      "minutes": 17,
-      "title": "Barbara Ward’s vision",
-      "author": "Or Rosenboim",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/why-we-should-heed-barbara-wards-vision-of-planetary-justice",
-      "note": "She was among the first to argue that prosperity, equality and the protection of nature are inseparable planetary goals - by Or Rosenboim Read on…"
     }
   ]
 }
