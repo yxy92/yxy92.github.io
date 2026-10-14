@@ -1,7 +1,25 @@
 {
-  "date": "2026-10-13",
-  "edition": 43,
+  "date": "2026-10-14",
+  "edition": 44,
   "reads": [
+    {
+      "field": "Science",
+      "minutes": 10,
+      "title": "Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t",
+      "author": "Robin George Andrews",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+      "note": "About 65 million light&#x2d;years from Earth, three galaxies don&rsquo;t look quite right."
+    },
+    {
+      "field": "Mind",
+      "minutes": 16,
+      "title": "Our Messy Cyborg Past and Future",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/our-messy-cyborg-past-and-future-1285793/",
+      "note": "Mike Jay, author of “Wireheads,” on the murky borderlands where the science and fiction of mind control…"
+    },
     {
       "field": "Mathematics",
       "minutes": 21,
@@ -28,24 +46,6 @@
       "publication": "Quanta Magazine",
       "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
       "note": "Everything that&rsquo;s swept the world since the 2022 release of ChatGPT &mdash; &ldquo;the AI economy&rdquo;; data centers; chatbots acting as best friends, doctors, and…"
-    },
-    {
-      "field": "Mind",
-      "minutes": 22,
-      "title": "Is everything conscious?",
-      "author": "Sam Kimpton-Nye",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/does-the-principle-of-sufficient-reason-make-panpsychism-true",
-      "note": "If the question makes no sense to you, try spending some time with the principle of sufficient reason - by Sam Kimpton-Nye Read on…"
-    },
-    {
-      "field": "Science & Mind",
-      "minutes": 13,
-      "title": "I Seeded My Dreams and This Story Emerged",
-      "author": "Will Dowd",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/i-seeded-my-dreams-and-this-story-emerged-1285719/",
-      "note": "Poet Will Dowd let Jorge Luis Borges speak to him in his…"
     }
   ]
 }

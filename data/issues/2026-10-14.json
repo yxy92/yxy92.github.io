@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-14",
+  "edition": 44,
+  "reads": [
+    {
+      "field": "Science",
+      "minutes": 10,
+      "title": "Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t",
+      "author": "Robin George Andrews",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+      "note": "About 65 million light&#x2d;years from Earth, three galaxies don&rsquo;t look quite right."
+    },
+    {
+      "field": "Mind",
+      "minutes": 16,
+      "title": "Our Messy Cyborg Past and Future",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/our-messy-cyborg-past-and-future-1285793/",
+      "note": "Mike Jay, author of “Wireheads,” on the murky borderlands where the science and fiction of mind control…"
+    },
+    {
+      "field": "Mathematics",
+      "minutes": 21,
+      "title": "An Inside Look At How To Tame Unstoppable AI",
+      "author": "Anna August",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/an-inside-look-at-how-to-tame-unstoppable-ai",
+      "note": "Earlier this year, a university decided to audit the effectiveness of its new AI system designed to help answer student questions."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 17,
+      "title": "Deskilling the body",
+      "author": "Melanie Challenger",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
+      "note": "We are, moment by moment, doing less sensing, navigating, remembering, walking, choosing, and attending - by Melanie Challenger Read on…"
+    },
+    {
+      "field": "Mathematics",
+      "minutes": 13,
+      "title": "Is ‘Attention’ the Essence of Intelligence?",
+      "author": "Natalie Wolchover",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+      "note": "Everything that&rsquo;s swept the world since the 2022 release of ChatGPT &mdash; &ldquo;the AI economy&rdquo;; data centers; chatbots acting as best friends, doctors, and…"
+    }
+  ]
+}
