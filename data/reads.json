@@ -1,7 +1,25 @@
 {
-  "date": "2026-10-14",
-  "edition": 44,
+  "date": "2026-10-15",
+  "edition": 45,
   "reads": [
+    {
+      "field": "Economics & Society",
+      "minutes": 15,
+      "title": "What We Can Save In A Time Of Endings",
+      "author": "Kat Hill",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/what-we-can-save-in-a-time-of-endings",
+      "note": "HAPPISBURGH, England — Off the coast of Norfolk on edge of the North Sea, the ocean can seem calm, but the waters are deceptive."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 15,
+      "title": "The ladder of knowledge",
+      "author": "Alexander V Gheorghiu",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge",
+      "note": "What we claim as ‘true’ is not a ceiling we are forever failing to reach but something that changes as we climb toward it - by Alexander V Gheorghiu Read on…"
+    },
     {
       "field": "Science",
       "minutes": 10,
@@ -28,24 +46,6 @@
       "publication": "Noema",
       "url": "https://www.noemamag.com/an-inside-look-at-how-to-tame-unstoppable-ai",
       "note": "Earlier this year, a university decided to audit the effectiveness of its new AI system designed to help answer student questions."
-    },
-    {
-      "field": "Philosophy & Culture",
-      "minutes": 17,
-      "title": "Deskilling the body",
-      "author": "Melanie Challenger",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
-      "note": "We are, moment by moment, doing less sensing, navigating, remembering, walking, choosing, and attending - by Melanie Challenger Read on…"
-    },
-    {
-      "field": "Mathematics",
-      "minutes": 13,
-      "title": "Is ‘Attention’ the Essence of Intelligence?",
-      "author": "Natalie Wolchover",
-      "publication": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
-      "note": "Everything that&rsquo;s swept the world since the 2022 release of ChatGPT &mdash; &ldquo;the AI economy&rdquo;; data centers; chatbots acting as best friends, doctors, and…"
     }
   ]
 }
