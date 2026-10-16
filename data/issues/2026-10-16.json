@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-16",
+  "edition": 46,
+  "reads": [
+    {
+      "field": "Technology",
+      "minutes": 11,
+      "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+      "author": "John Pavlus",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+      "note": "Benchmarks are the rulers of AI, in both senses of the word. As measuring sticks, they work according to an extremely simple logic: If you want to know what an AI model can do,…"
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 17,
+      "title": "How to be a (Roman) man",
+      "author": "Catharine Edwards",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
+      "note": "Cicero’s ideal of manly virtue stressed the performance of self-control and bravery, not boastful egotism and domination - by Catharine Edwards Read on…"
+    },
+    {
+      "field": "Economics & Society",
+      "minutes": 15,
+      "title": "What We Can Save In A Time Of Endings",
+      "author": "Kat Hill",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/what-we-can-save-in-a-time-of-endings",
+      "note": "HAPPISBURGH, England — Off the coast of Norfolk on edge of the North Sea, the ocean can seem calm, but the waters are deceptive."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 15,
+      "title": "The ladder of knowledge",
+      "author": "Alexander V Gheorghiu",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge",
+      "note": "What we claim as ‘true’ is not a ceiling we are forever failing to reach but something that changes as we climb toward it - by Alexander V Gheorghiu Read on…"
+    },
+    {
+      "field": "Science",
+      "minutes": 10,
+      "title": "Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t",
+      "author": "Robin George Andrews",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+      "note": "About 65 million light&#x2d;years from Earth, three galaxies don&rsquo;t look quite right."
+    }
+  ]
+}

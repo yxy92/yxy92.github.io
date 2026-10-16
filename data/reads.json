@@ -1,7 +1,25 @@
 {
-  "date": "2026-10-15",
-  "edition": 45,
+  "date": "2026-10-16",
+  "edition": 46,
   "reads": [
+    {
+      "field": "Technology",
+      "minutes": 11,
+      "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+      "author": "John Pavlus",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+      "note": "Benchmarks are the rulers of AI, in both senses of the word. As measuring sticks, they work according to an extremely simple logic: If you want to know what an AI model can do,…"
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 17,
+      "title": "How to be a (Roman) man",
+      "author": "Catharine Edwards",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
+      "note": "Cicero’s ideal of manly virtue stressed the performance of self-control and bravery, not boastful egotism and domination - by Catharine Edwards Read on…"
+    },
     {
       "field": "Economics & Society",
       "minutes": 15,
@@ -28,24 +46,6 @@
       "publication": "Quanta Magazine",
       "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
       "note": "About 65 million light&#x2d;years from Earth, three galaxies don&rsquo;t look quite right."
-    },
-    {
-      "field": "Mind",
-      "minutes": 16,
-      "title": "Our Messy Cyborg Past and Future",
-      "author": "Kristen French",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/our-messy-cyborg-past-and-future-1285793/",
-      "note": "Mike Jay, author of “Wireheads,” on the murky borderlands where the science and fiction of mind control…"
-    },
-    {
-      "field": "Mathematics",
-      "minutes": 21,
-      "title": "An Inside Look At How To Tame Unstoppable AI",
-      "author": "Anna August",
-      "publication": "Noema",
-      "url": "https://www.noemamag.com/an-inside-look-at-how-to-tame-unstoppable-ai",
-      "note": "Earlier this year, a university decided to audit the effectiveness of its new AI system designed to help answer student questions."
     }
   ]
 }
