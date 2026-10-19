@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-19",
+  "edition": 49,
+  "reads": [
+    {
+      "field": "Mathematics",
+      "minutes": 11,
+      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+      "author": "Konstantin Kakaes",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+      "note": "Among the 377 results that OpenAI announced on October 6, 2026, one stood out."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 18,
+      "title": "Horrible, unmanly, indispensable",
+      "author": "Catherine Fletcher",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/the-renaissance-gun-from-diabolical-device-to-popular-militias",
+      "note": "Renaissance Italians saw the gun as the Devil’s work. But soon they embraced this unchivalrous – and necessary – weapon - by Catherine Fletcher Read on…"
+    },
+    {
+      "field": "Technology",
+      "minutes": 11,
+      "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+      "author": "John Pavlus",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+      "note": "Benchmarks are the rulers of AI, in both senses of the word. As measuring sticks, they work according to an extremely simple logic: If you want to know what an AI model can do,…"
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 17,
+      "title": "How to be a (Roman) man",
+      "author": "Catharine Edwards",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
+      "note": "Cicero’s ideal of manly virtue stressed the performance of self-control and bravery, not boastful egotism and domination - by Catharine Edwards Read on…"
+    },
+    {
+      "field": "Economics & Society",
+      "minutes": 15,
+      "title": "What We Can Save In A Time Of Endings",
+      "author": "Kat Hill",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/what-we-can-save-in-a-time-of-endings",
+      "note": "HAPPISBURGH, England — Off the coast of Norfolk on edge of the North Sea, the ocean can seem calm, but the waters are deceptive."
+    }
+  ]
+}
