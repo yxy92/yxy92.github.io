@@ -1,7 +1,34 @@
 {
-  "date": "2026-10-19",
-  "edition": 49,
+  "date": "2026-10-20",
+  "edition": 50,
   "reads": [
+    {
+      "field": "Economics & Society",
+      "minutes": 15,
+      "title": "Sudan As A Mirror For Today’s World",
+      "author": "Alden Young",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/sudan-as-a-mirror-for-todays-world",
+      "note": "Sudan has often served as a mirror for judging the health of the liberal world order because it has repeatedly been a laboratory for multilateral interventions to prevent…"
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 21,
+      "title": "How intuitions work",
+      "author": "Marc A Moffett",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
+      "note": "Just as seeing a tree gives you reason to believe it’s there, sensing that a stranger is creepy gives you reason to walk away - by Marc A Moffett Read on…"
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 21,
+      "title": "What Makes Life Beautiful?",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/what-makes-life-beautiful-1285942/",
+      "note": "The magic of rhyme and the search for a…"
+    },
     {
       "field": "Mathematics",
       "minutes": 11,
@@ -19,33 +46,6 @@
       "publication": "Aeon",
       "url": "https://aeon.co/essays/the-renaissance-gun-from-diabolical-device-to-popular-militias",
       "note": "Renaissance Italians saw the gun as the Devil’s work. But soon they embraced this unchivalrous – and necessary – weapon - by Catherine Fletcher Read on…"
-    },
-    {
-      "field": "Technology",
-      "minutes": 11,
-      "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
-      "author": "John Pavlus",
-      "publication": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
-      "note": "Benchmarks are the rulers of AI, in both senses of the word. As measuring sticks, they work according to an extremely simple logic: If you want to know what an AI model can do,…"
-    },
-    {
-      "field": "Philosophy & Culture",
-      "minutes": 17,
-      "title": "How to be a (Roman) man",
-      "author": "Catharine Edwards",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
-      "note": "Cicero’s ideal of manly virtue stressed the performance of self-control and bravery, not boastful egotism and domination - by Catharine Edwards Read on…"
-    },
-    {
-      "field": "Economics & Society",
-      "minutes": 15,
-      "title": "What We Can Save In A Time Of Endings",
-      "author": "Kat Hill",
-      "publication": "Noema",
-      "url": "https://www.noemamag.com/what-we-can-save-in-a-time-of-endings",
-      "note": "HAPPISBURGH, England — Off the coast of Norfolk on edge of the North Sea, the ocean can seem calm, but the waters are deceptive."
     }
   ]
 }
