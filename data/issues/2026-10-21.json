@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-21",
+  "edition": 51,
+  "reads": [
+    {
+      "field": "Economics & Society",
+      "minutes": 15,
+      "title": "Sudan As A Mirror For Today’s World",
+      "author": "Alden Young",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/sudan-as-a-mirror-for-todays-world",
+      "note": "Sudan has often served as a mirror for judging the health of the liberal world order because it has repeatedly been a laboratory for multilateral interventions to prevent…"
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 21,
+      "title": "How intuitions work",
+      "author": "Marc A Moffett",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
+      "note": "Just as seeing a tree gives you reason to believe it’s there, sensing that a stranger is creepy gives you reason to walk away - by Marc A Moffett Read on…"
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 21,
+      "title": "What Makes Life Beautiful?",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/what-makes-life-beautiful-1285942/",
+      "note": "The magic of rhyme and the search for a…"
+    },
+    {
+      "field": "Mathematics",
+      "minutes": 11,
+      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+      "author": "Konstantin Kakaes",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+      "note": "Among the 377 results that OpenAI announced on October 6, 2026, one stood out."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 18,
+      "title": "Horrible, unmanly, indispensable",
+      "author": "Catherine Fletcher",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/the-renaissance-gun-from-diabolical-device-to-popular-militias",
+      "note": "Renaissance Italians saw the gun as the Devil’s work. But soon they embraced this unchivalrous – and necessary – weapon - by Catherine Fletcher Read on…"
+    }
+  ]
+}
