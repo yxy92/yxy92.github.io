@@ -1,7 +1,25 @@
 {
-  "date": "2026-10-22",
-  "edition": 52,
+  "date": "2026-10-23",
+  "edition": 53,
   "reads": [
+    {
+      "field": "History",
+      "minutes": 12,
+      "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
+      "author": "Joanna Thompson",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
+      "note": "In medieval Italy, it was accepted wisdom that anyone walking near a swamp risked falling ill from &ldquo;bad air&rdquo; &mdash; mala aria."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 13,
+      "title": "Traction!",
+      "author": "Jennifer R Vail",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/why-a-world-without-friction-is-a-world-without-progress",
+      "note": "Tribologists study friction: what happens when things rub together. It’s indispensable, from the wheel to the paths of stars - by Jennifer R Vail Read on…"
+    },
     {
       "field": "Philosophy & Culture",
       "minutes": 20,
@@ -28,24 +46,6 @@
       "publication": "Aeon",
       "url": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
       "note": "Just as seeing a tree gives you reason to believe it’s there, sensing that a stranger is creepy gives you reason to walk away - by Marc A Moffett Read on…"
-    },
-    {
-      "field": "Science & Mind",
-      "minutes": 21,
-      "title": "What Makes Life Beautiful?",
-      "author": "Kristen French",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/what-makes-life-beautiful-1285942/",
-      "note": "The magic of rhyme and the search for a…"
-    },
-    {
-      "field": "Mathematics",
-      "minutes": 11,
-      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
-      "author": "Konstantin Kakaes",
-      "publication": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
-      "note": "Among the 377 results that OpenAI announced on October 6, 2026, one stood out."
     }
   ]
 }
