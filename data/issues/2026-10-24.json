@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-24",
+  "edition": 54,
+  "reads": [
+    {
+      "field": "History",
+      "minutes": 12,
+      "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
+      "author": "Joanna Thompson",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
+      "note": "In medieval Italy, it was accepted wisdom that anyone walking near a swamp risked falling ill from &ldquo;bad air&rdquo; &mdash; mala aria."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 13,
+      "title": "Traction!",
+      "author": "Jennifer R Vail",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/why-a-world-without-friction-is-a-world-without-progress",
+      "note": "Tribologists study friction: what happens when things rub together. It’s indispensable, from the wheel to the paths of stars - by Jennifer R Vail Read on…"
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 20,
+      "title": "Other people",
+      "author": "Elizabeth Oldfield",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die",
+      "note": "Disconnection is at the heart of today’s crises. So my husband and I chose a radical and revealing remedy: living communally - by Elizabeth Oldfield Read on…"
+    },
+    {
+      "field": "Economics & Society",
+      "minutes": 15,
+      "title": "Sudan As A Mirror For Today’s World",
+      "author": "Alden Young",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/sudan-as-a-mirror-for-todays-world",
+      "note": "Sudan has often served as a mirror for judging the health of the liberal world order because it has repeatedly been a laboratory for multilateral interventions to prevent…"
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 21,
+      "title": "How intuitions work",
+      "author": "Marc A Moffett",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
+      "note": "Just as seeing a tree gives you reason to believe it’s there, sensing that a stranger is creepy gives you reason to walk away - by Marc A Moffett Read on…"
+    }
+  ]
+}
