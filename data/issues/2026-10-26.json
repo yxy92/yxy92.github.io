@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-26",
+  "edition": 56,
+  "reads": [
+    {
+      "field": "Mathematics",
+      "minutes": 10,
+      "title": "How Voting Is Like a Klein Bottle",
+      "author": "Alex Stone",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
+      "note": "Mathematically speaking, democracy is next to impossible. That may sound like the premise of a Silicon Valley billionaire&rsquo;s six&#x2d;hour podcast, but it&rsquo;s actually…"
+    },
+    {
+      "field": "History",
+      "minutes": 20,
+      "title": "How to build real peace",
+      "author": "Azize Aslan",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
+      "note": "From Colombia to Syria, I’ve seen that capitalist logic can’t help to rebuild postwar countries but cooperatives can - by Azize Aslan Read on…"
+    },
+    {
+      "field": "History",
+      "minutes": 12,
+      "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
+      "author": "Joanna Thompson",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
+      "note": "In medieval Italy, it was accepted wisdom that anyone walking near a swamp risked falling ill from &ldquo;bad air&rdquo; &mdash; mala aria."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 13,
+      "title": "Traction!",
+      "author": "Jennifer R Vail",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/why-a-world-without-friction-is-a-world-without-progress",
+      "note": "Tribologists study friction: what happens when things rub together. It’s indispensable, from the wheel to the paths of stars - by Jennifer R Vail Read on…"
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 20,
+      "title": "Other people",
+      "author": "Elizabeth Oldfield",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die",
+      "note": "Disconnection is at the heart of today’s crises. So my husband and I chose a radical and revealing remedy: living communally - by Elizabeth Oldfield Read on…"
+    }
+  ]
+}

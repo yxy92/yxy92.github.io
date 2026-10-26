@@ -1,7 +1,25 @@
 {
-  "date": "2026-10-25",
-  "edition": 55,
+  "date": "2026-10-26",
+  "edition": 56,
   "reads": [
+    {
+      "field": "Mathematics",
+      "minutes": 10,
+      "title": "How Voting Is Like a Klein Bottle",
+      "author": "Alex Stone",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
+      "note": "Mathematically speaking, democracy is next to impossible. That may sound like the premise of a Silicon Valley billionaire&rsquo;s six&#x2d;hour podcast, but it&rsquo;s actually…"
+    },
+    {
+      "field": "History",
+      "minutes": 20,
+      "title": "How to build real peace",
+      "author": "Azize Aslan",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
+      "note": "From Colombia to Syria, I’ve seen that capitalist logic can’t help to rebuild postwar countries but cooperatives can - by Azize Aslan Read on…"
+    },
     {
       "field": "History",
       "minutes": 12,
@@ -28,24 +46,6 @@
       "publication": "Aeon",
       "url": "https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die",
       "note": "Disconnection is at the heart of today’s crises. So my husband and I chose a radical and revealing remedy: living communally - by Elizabeth Oldfield Read on…"
-    },
-    {
-      "field": "Economics & Society",
-      "minutes": 15,
-      "title": "Sudan As A Mirror For Today’s World",
-      "author": "Alden Young",
-      "publication": "Noema",
-      "url": "https://www.noemamag.com/sudan-as-a-mirror-for-todays-world",
-      "note": "Sudan has often served as a mirror for judging the health of the liberal world order because it has repeatedly been a laboratory for multilateral interventions to prevent…"
-    },
-    {
-      "field": "Philosophy & Culture",
-      "minutes": 21,
-      "title": "How intuitions work",
-      "author": "Marc A Moffett",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
-      "note": "Just as seeing a tree gives you reason to believe it’s there, sensing that a stranger is creepy gives you reason to walk away - by Marc A Moffett Read on…"
     }
   ]
 }
