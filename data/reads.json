@@ -1,7 +1,16 @@
 {
-  "date": "2026-10-26",
-  "edition": 56,
+  "date": "2026-10-27",
+  "edition": 57,
   "reads": [
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 19,
+      "title": "Love with nowhere to go",
+      "author": "Derek van Zoonen",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/we-need-a-language-to-name-the-grief-that-comes-without-death",
+      "note": "Grief is not only for the dead. When we are unable to honour other profound losses, we become strangers to ourselves - by Derek van Zoonen Read on…"
+    },
     {
       "field": "Mathematics",
       "minutes": 10,
@@ -37,15 +46,6 @@
       "publication": "Aeon",
       "url": "https://aeon.co/essays/why-a-world-without-friction-is-a-world-without-progress",
       "note": "Tribologists study friction: what happens when things rub together. It’s indispensable, from the wheel to the paths of stars - by Jennifer R Vail Read on…"
-    },
-    {
-      "field": "Philosophy & Culture",
-      "minutes": 20,
-      "title": "Other people",
-      "author": "Elizabeth Oldfield",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die",
-      "note": "Disconnection is at the heart of today’s crises. So my husband and I chose a radical and revealing remedy: living communally - by Elizabeth Oldfield Read on…"
     }
   ]
 }
