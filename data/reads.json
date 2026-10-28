@@ -1,7 +1,34 @@
 {
-  "date": "2026-10-27",
-  "edition": 57,
+  "date": "2026-10-28",
+  "edition": 58,
   "reads": [
+    {
+      "field": "Mathematics",
+      "minutes": 12,
+      "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
+      "author": "Yasemin Saplakoglu",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+      "note": "A spider, when knocked off a wall, doesn&rsquo;t fall for long. Within milliseconds, it spins a soup of proteins into sturdy climbing gear."
+    },
+    {
+      "field": "Technology",
+      "minutes": 16,
+      "title": "Turbulent Times Call For Experimental Law",
+      "author": "Joe Mathews",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/turbulent-times-call-for-experimental-law",
+      "note": "MUNICH — Shortly after wandering into the Munich Urban Colab this summer, I found myself trying to follow an intense conversation in German about the city’s new experiment with…"
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 11,
+      "title": "The Teenage Girl Who Remembers Everything",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-teenage-girl-who-remembers-everything-1286118/",
+      "note": "A conversation with a scientist about a 16-year-old who has highly superior autobiographical…"
+    },
     {
       "field": "Philosophy & Culture",
       "minutes": 19,
@@ -19,33 +46,6 @@
       "publication": "Quanta Magazine",
       "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
       "note": "Mathematically speaking, democracy is next to impossible. That may sound like the premise of a Silicon Valley billionaire&rsquo;s six&#x2d;hour podcast, but it&rsquo;s actually…"
-    },
-    {
-      "field": "History",
-      "minutes": 20,
-      "title": "How to build real peace",
-      "author": "Azize Aslan",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
-      "note": "From Colombia to Syria, I’ve seen that capitalist logic can’t help to rebuild postwar countries but cooperatives can - by Azize Aslan Read on…"
-    },
-    {
-      "field": "History",
-      "minutes": 12,
-      "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
-      "author": "Joanna Thompson",
-      "publication": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
-      "note": "In medieval Italy, it was accepted wisdom that anyone walking near a swamp risked falling ill from &ldquo;bad air&rdquo; &mdash; mala aria."
-    },
-    {
-      "field": "Philosophy & Culture",
-      "minutes": 13,
-      "title": "Traction!",
-      "author": "Jennifer R Vail",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/why-a-world-without-friction-is-a-world-without-progress",
-      "note": "Tribologists study friction: what happens when things rub together. It’s indispensable, from the wheel to the paths of stars - by Jennifer R Vail Read on…"
     }
   ]
 }
