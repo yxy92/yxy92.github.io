@@ -1,7 +1,34 @@
 {
-  "date": "2026-10-28",
-  "edition": 58,
+  "date": "2026-10-29",
+  "edition": 59,
   "reads": [
+    {
+      "field": "Mathematics",
+      "minutes": 21,
+      "title": "A New Dawn For Mathematical Progress",
+      "author": "Atoosa Kasirzadeh",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/a-new-dawn-for-mathematical-progress",
+      "note": "In the past few months, unreleased frontier AI systems have significantly disrupted a classic conception of mathematics."
+    },
+    {
+      "field": "Physics",
+      "minutes": 17,
+      "title": "The physics of getting fired",
+      "author": "Zahaan Bharmal",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
+      "note": "Physics offered me a sense of order and purpose. But when life got messy I realised it had a much deeper insight to give - by Zahaan Bharmal Read on…"
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 17,
+      "title": "The Quest for Wisdom in Turbulent Times",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-quest-for-wisdom-in-turbulent-times-1286156/",
+      "note": "A conversation with three Harvard professors about the practice of wisdom in everyday…"
+    },
     {
       "field": "Mathematics",
       "minutes": 12,
@@ -19,33 +46,6 @@
       "publication": "Noema",
       "url": "https://www.noemamag.com/turbulent-times-call-for-experimental-law",
       "note": "MUNICH — Shortly after wandering into the Munich Urban Colab this summer, I found myself trying to follow an intense conversation in German about the city’s new experiment with…"
-    },
-    {
-      "field": "Science & Mind",
-      "minutes": 11,
-      "title": "The Teenage Girl Who Remembers Everything",
-      "author": "Kristen French",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/the-teenage-girl-who-remembers-everything-1286118/",
-      "note": "A conversation with a scientist about a 16-year-old who has highly superior autobiographical…"
-    },
-    {
-      "field": "Philosophy & Culture",
-      "minutes": 19,
-      "title": "Love with nowhere to go",
-      "author": "Derek van Zoonen",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/we-need-a-language-to-name-the-grief-that-comes-without-death",
-      "note": "Grief is not only for the dead. When we are unable to honour other profound losses, we become strangers to ourselves - by Derek van Zoonen Read on…"
-    },
-    {
-      "field": "Mathematics",
-      "minutes": 10,
-      "title": "How Voting Is Like a Klein Bottle",
-      "author": "Alex Stone",
-      "publication": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
-      "note": "Mathematically speaking, democracy is next to impossible. That may sound like the premise of a Silicon Valley billionaire&rsquo;s six&#x2d;hour podcast, but it&rsquo;s actually…"
     }
   ]
 }
