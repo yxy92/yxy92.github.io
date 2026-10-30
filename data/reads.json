@@ -1,7 +1,34 @@
 {
-  "date": "2026-10-29",
-  "edition": 59,
+  "date": "2026-10-30",
+  "edition": 60,
   "reads": [
+    {
+      "field": "Science",
+      "minutes": 12,
+      "title": "A New Map of &#8216;Empty&#8217; Space Challenges a Tranquil Picture of the Galaxy",
+      "author": "Perri Thaler",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
+      "note": "You might imagine space to be empty. But the seeming void contains a barely perceptible fog of hydrogen and other neutral atoms."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 16,
+      "title": "In praise of the dilettante",
+      "author": "Jay Miller",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/why-the-dilettante-is-the-anti-hero-of-our-over-optimised-age",
+      "note": "A wayfaring cosmopolitan who never gets stuck, the dilettante is the right anti-hero for our hyper-specialised age - by Jay Miller Read on…"
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 15,
+      "title": "Dear Human, Poetry Might Save Us from the Apocalypse",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/dear-human-poetry-might-save-us-from-the-apocalypse-1286192/",
+      "note": "How verse may move us when data…"
+    },
     {
       "field": "Mathematics",
       "minutes": 21,
@@ -19,33 +46,6 @@
       "publication": "Aeon",
       "url": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
       "note": "Physics offered me a sense of order and purpose. But when life got messy I realised it had a much deeper insight to give - by Zahaan Bharmal Read on…"
-    },
-    {
-      "field": "Science & Mind",
-      "minutes": 17,
-      "title": "The Quest for Wisdom in Turbulent Times",
-      "author": "Kristen French",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/the-quest-for-wisdom-in-turbulent-times-1286156/",
-      "note": "A conversation with three Harvard professors about the practice of wisdom in everyday…"
-    },
-    {
-      "field": "Mathematics",
-      "minutes": 12,
-      "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
-      "author": "Yasemin Saplakoglu",
-      "publication": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-      "note": "A spider, when knocked off a wall, doesn&rsquo;t fall for long. Within milliseconds, it spins a soup of proteins into sturdy climbing gear."
-    },
-    {
-      "field": "Technology",
-      "minutes": 16,
-      "title": "Turbulent Times Call For Experimental Law",
-      "author": "Joe Mathews",
-      "publication": "Noema",
-      "url": "https://www.noemamag.com/turbulent-times-call-for-experimental-law",
-      "note": "MUNICH — Shortly after wandering into the Munich Urban Colab this summer, I found myself trying to follow an intense conversation in German about the city’s new experiment with…"
     }
   ]
 }
