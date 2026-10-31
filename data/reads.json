@@ -1,7 +1,16 @@
 {
-  "date": "2026-10-30",
-  "edition": 60,
+  "date": "2026-10-31",
+  "edition": 61,
   "reads": [
+    {
+      "field": "Technology",
+      "minutes": 11,
+      "title": "“We Will Find a Graviton Before We Find Dark Matter”",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/we-will-find-a-graviton-before-we-find-dark-matter-1286243/",
+      "note": "A quantum information scientist on the hunt for the elemental mediator of gravity and why AI can’t solve physics problems…"
+    },
     {
       "field": "Science",
       "minutes": 12,
@@ -37,15 +46,6 @@
       "publication": "Noema",
       "url": "https://www.noemamag.com/a-new-dawn-for-mathematical-progress",
       "note": "In the past few months, unreleased frontier AI systems have significantly disrupted a classic conception of mathematics."
-    },
-    {
-      "field": "Physics",
-      "minutes": 17,
-      "title": "The physics of getting fired",
-      "author": "Zahaan Bharmal",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
-      "note": "Physics offered me a sense of order and purpose. But when life got messy I realised it had a much deeper insight to give - by Zahaan Bharmal Read on…"
     }
   ]
 }
