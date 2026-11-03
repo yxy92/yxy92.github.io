@@ -1,7 +1,25 @@
 {
-  "date": "2026-11-02",
-  "edition": 63,
+  "date": "2026-11-03",
+  "edition": 64,
   "reads": [
+    {
+      "field": "Mathematics",
+      "minutes": 25,
+      "title": "In Praise Of Japan’s Failure To Keep Up",
+      "author": "Michael Fitzpatrick",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/in-praise-of-japans-failure-to-keep-up",
+      "note": "TOKYO — Nothing triggers the bog-walloping Fenian in me quite like a visit to the British Embassy."
+    },
+    {
+      "field": "Mind",
+      "minutes": 19,
+      "title": "Believing and thinking",
+      "author": "Neil Van Leeuwen & Jacob Eisler",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
+      "note": "The separation of church and state has an unspoken psychological basis: we choose what we believe, but not what we think - by Neil Van Leeuwen & Jacob Eisler Read on…"
+    },
     {
       "field": "Philosophy",
       "minutes": 16,
@@ -28,24 +46,6 @@
       "publication": "Nautilus",
       "url": "https://nautil.us/meds-are-often-the-go-to-for-dementia-patients-is-there-a-better-way-1286263/",
       "note": "Federal statistics show nursing homes still overuse medications to quell the behavioral problems that come with cognitive decline."
-    },
-    {
-      "field": "Technology",
-      "minutes": 11,
-      "title": "“We Will Find a Graviton Before We Find Dark Matter”",
-      "author": "Kristen French",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/we-will-find-a-graviton-before-we-find-dark-matter-1286243/",
-      "note": "A quantum information scientist on the hunt for the elemental mediator of gravity and why AI can’t solve physics problems…"
-    },
-    {
-      "field": "Science",
-      "minutes": 12,
-      "title": "A New Map of &#8216;Empty&#8217; Space Challenges a Tranquil Picture of the Galaxy",
-      "author": "Perri Thaler",
-      "publication": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
-      "note": "You might imagine space to be empty. But the seeming void contains a barely perceptible fog of hydrogen and other neutral atoms."
     }
   ]
 }
