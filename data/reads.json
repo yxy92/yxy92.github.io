@@ -1,7 +1,34 @@
 {
-  "date": "2026-11-03",
-  "edition": 64,
+  "date": "2026-11-04",
+  "edition": 65,
   "reads": [
+    {
+      "field": "Technology",
+      "minutes": 14,
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "author": "Ben Brubaker",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+      "note": "What&rsquo;s on your mind right now? You can probably answer this question without thinking too hard about it."
+    },
+    {
+      "field": "Mind",
+      "minutes": 12,
+      "title": "The Myth of Mommy Brain",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-myth-of-mommy-brain-1286337/",
+      "note": "A conversation with neuroscientist Susana Carmona, author of “A Mother’s Brain,” about how the brain changes in…"
+    },
+    {
+      "field": "Life & Earth",
+      "minutes": 10,
+      "title": "The Original X-Men",
+      "author": "Thomas W. Hodgkinson",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-original-x-men-1286311/",
+      "note": "These intellectual superheroes revolutionized science in Britain and beyond by developing independent…"
+    },
     {
       "field": "Mathematics",
       "minutes": 25,
@@ -19,33 +46,6 @@
       "publication": "Aeon",
       "url": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
       "note": "The separation of church and state has an unspoken psychological basis: we choose what we believe, but not what we think - by Neil Van Leeuwen & Jacob Eisler Read on…"
-    },
-    {
-      "field": "Philosophy",
-      "minutes": 16,
-      "title": "Is There Anything Left in the Dream of Cold Fusion?",
-      "author": "George Musser",
-      "publication": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
-      "note": "Cold fusion: Now there&rsquo;s an idea I hadn&rsquo;t thought about in a while."
-    },
-    {
-      "field": "Philosophy & Culture",
-      "minutes": 22,
-      "title": "The self-making world",
-      "author": "Jessica Riskin",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/the-self-making-world-of-jean-baptiste-lamarck",
-      "note": "Long mocked and misunderstood, Lamarck’s radical idea that organisms shape themselves and their world is making a comeback - by Jessica Riskin Read on…"
-    },
-    {
-      "field": "Mind",
-      "minutes": 14,
-      "title": "Meds Are Often the Go-to for Dementia Patients. Is There a Better Way?",
-      "author": "Marla Broadfoot",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/meds-are-often-the-go-to-for-dementia-patients-is-there-a-better-way-1286263/",
-      "note": "Federal statistics show nursing homes still overuse medications to quell the behavioral problems that come with cognitive decline."
     }
   ]
 }
