@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-05",
+  "edition": 66,
+  "reads": [
+    {
+      "field": "Technology",
+      "minutes": 18,
+      "title": "Building The New Equilibrium Economy",
+      "author": "Philipp Humm",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/building-the-new-equilibrium-economy",
+      "note": "More than 2,000 years ago, Aristotle formulated one of history&#8217;s most remarkable thought experiments."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 16,
+      "title": "Methodical/mercurial",
+      "author": "Sarah Hendrickx",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/welcome-to-the-mixed-up-joyful-world-of-audhd",
+      "note": "I need order and routine – just as much as I crave excitement and variety."
+    },
+    {
+      "field": "Technology",
+      "minutes": 14,
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "author": "Ben Brubaker",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+      "note": "What&rsquo;s on your mind right now? You can probably answer this question without thinking too hard about it."
+    },
+    {
+      "field": "Mind",
+      "minutes": 12,
+      "title": "The Myth of Mommy Brain",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-myth-of-mommy-brain-1286337/",
+      "note": "A conversation with neuroscientist Susana Carmona, author of “A Mother’s Brain,” about how the brain changes in…"
+    },
+    {
+      "field": "Life & Earth",
+      "minutes": 10,
+      "title": "The Original X-Men",
+      "author": "Thomas W. Hodgkinson",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-original-x-men-1286311/",
+      "note": "These intellectual superheroes revolutionized science in Britain and beyond by developing independent…"
+    }
+  ]
+}

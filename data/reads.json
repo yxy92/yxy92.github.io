@@ -1,7 +1,25 @@
 {
-  "date": "2026-11-04",
-  "edition": 65,
+  "date": "2026-11-05",
+  "edition": 66,
   "reads": [
+    {
+      "field": "Technology",
+      "minutes": 18,
+      "title": "Building The New Equilibrium Economy",
+      "author": "Philipp Humm",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/building-the-new-equilibrium-economy",
+      "note": "More than 2,000 years ago, Aristotle formulated one of history&#8217;s most remarkable thought experiments."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 16,
+      "title": "Methodical/mercurial",
+      "author": "Sarah Hendrickx",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/welcome-to-the-mixed-up-joyful-world-of-audhd",
+      "note": "I need order and routine – just as much as I crave excitement and variety."
+    },
     {
       "field": "Technology",
       "minutes": 14,
@@ -28,24 +46,6 @@
       "publication": "Nautilus",
       "url": "https://nautil.us/the-original-x-men-1286311/",
       "note": "These intellectual superheroes revolutionized science in Britain and beyond by developing independent…"
-    },
-    {
-      "field": "Mathematics",
-      "minutes": 25,
-      "title": "In Praise Of Japan’s Failure To Keep Up",
-      "author": "Michael Fitzpatrick",
-      "publication": "Noema",
-      "url": "https://www.noemamag.com/in-praise-of-japans-failure-to-keep-up",
-      "note": "TOKYO — Nothing triggers the bog-walloping Fenian in me quite like a visit to the British Embassy."
-    },
-    {
-      "field": "Mind",
-      "minutes": 19,
-      "title": "Believing and thinking",
-      "author": "Neil Van Leeuwen & Jacob Eisler",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
-      "note": "The separation of church and state has an unspoken psychological basis: we choose what we believe, but not what we think - by Neil Van Leeuwen & Jacob Eisler Read on…"
     }
   ]
 }
