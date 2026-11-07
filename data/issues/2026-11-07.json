@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-07",
+  "edition": 68,
+  "reads": [
+    {
+      "field": "Philosophy",
+      "minutes": 20,
+      "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
+      "author": "Charlie Wood",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
+      "note": "One of a human&rsquo;s earliest developmental milestones is an understanding of object permanence."
+    },
+    {
+      "field": "Physics",
+      "minutes": 17,
+      "title": "Celestial nuisance",
+      "author": "Dylan Jow",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions",
+      "note": "The cosmos has become a lab for the Big Questions in physics. Along the way, we’ve lost sight of its glorious messiness - by Dylan Jow Read on…"
+    },
+    {
+      "field": "Technology",
+      "minutes": 16,
+      "title": "The Evolutionary Arc From Pigeon Brains to Machine Consciousness",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-evolutionary-arc-from-pigeon-brains-to-machine-consciousness-1286380/",
+      "note": "A conversation with comparative cognition researcher Edward Wasserman about learning and the “edge of…"
+    },
+    {
+      "field": "Technology",
+      "minutes": 18,
+      "title": "Building The New Equilibrium Economy",
+      "author": "Philipp Humm",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/building-the-new-equilibrium-economy",
+      "note": "More than 2,000 years ago, Aristotle formulated one of history&#8217;s most remarkable thought experiments."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 16,
+      "title": "Methodical/mercurial",
+      "author": "Sarah Hendrickx",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/welcome-to-the-mixed-up-joyful-world-of-audhd",
+      "note": "I need order and routine – just as much as I crave excitement and variety."
+    }
+  ]
+}
