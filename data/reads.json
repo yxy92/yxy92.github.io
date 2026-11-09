@@ -1,7 +1,16 @@
 {
-  "date": "2026-11-08",
-  "edition": 69,
+  "date": "2026-11-09",
+  "edition": 70,
   "reads": [
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 22,
+      "title": "Equality talk",
+      "author": "Teresa M Bejan",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/historical-ideas-of-equality-help-us-imagine-an-equal-world",
+      "note": "In the summer of 1646, the idea of equality gained new and profound depths."
+    },
     {
       "field": "Philosophy",
       "minutes": 20,
@@ -37,15 +46,6 @@
       "publication": "Noema",
       "url": "https://www.noemamag.com/building-the-new-equilibrium-economy",
       "note": "More than 2,000 years ago, Aristotle formulated one of history&#8217;s most remarkable thought experiments."
-    },
-    {
-      "field": "Philosophy & Culture",
-      "minutes": 16,
-      "title": "Methodical/mercurial",
-      "author": "Sarah Hendrickx",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/welcome-to-the-mixed-up-joyful-world-of-audhd",
-      "note": "I need order and routine – just as much as I crave excitement and variety."
     }
   ]
 }
