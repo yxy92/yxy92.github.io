@@ -1,7 +1,25 @@
 {
-  "date": "2026-11-09",
-  "edition": 70,
+  "date": "2026-11-10",
+  "edition": 71,
   "reads": [
+    {
+      "field": "Technology",
+      "minutes": 18,
+      "title": "When AIs Become Unruly Swarms",
+      "author": "Ben Bariach",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/when-ais-become-unruly-swarms",
+      "note": "In a harbor before dawn, a hundred fishing boats prepare to leave in the dark of the morning."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 26,
+      "title": "The wholehearted life",
+      "author": "Ben Daitz",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life",
+      "note": "Roshi Joan Halifax is an original, generous, gritty and profound Buddhist teacher."
+    },
     {
       "field": "Philosophy & Culture",
       "minutes": 22,
@@ -28,24 +46,6 @@
       "publication": "Aeon",
       "url": "https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions",
       "note": "The cosmos has become a lab for the Big Questions in physics. Along the way, we’ve lost sight of its glorious messiness - by Dylan Jow Read on…"
-    },
-    {
-      "field": "Technology",
-      "minutes": 16,
-      "title": "The Evolutionary Arc From Pigeon Brains to Machine Consciousness",
-      "author": "Kristen French",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/the-evolutionary-arc-from-pigeon-brains-to-machine-consciousness-1286380/",
-      "note": "A conversation with comparative cognition researcher Edward Wasserman about learning and the “edge of…"
-    },
-    {
-      "field": "Technology",
-      "minutes": 18,
-      "title": "Building The New Equilibrium Economy",
-      "author": "Philipp Humm",
-      "publication": "Noema",
-      "url": "https://www.noemamag.com/building-the-new-equilibrium-economy",
-      "note": "More than 2,000 years ago, Aristotle formulated one of history&#8217;s most remarkable thought experiments."
     }
   ]
 }
