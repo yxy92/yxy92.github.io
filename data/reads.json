@@ -1,7 +1,34 @@
 {
-  "date": "2026-11-11",
-  "edition": 72,
+  "date": "2026-11-12",
+  "edition": 73,
   "reads": [
+    {
+      "field": "Technology",
+      "minutes": 14,
+      "title": "A Generation Revolts",
+      "author": "John Last",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/a-generation-revolts",
+      "note": "Across Europe, young people are being arrested in their thousands. In Milan, jackbooted soldiers from the Italian military — average age, 38 — haul protesters, some of whom are…"
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 18,
+      "title": "Why anything exists",
+      "author": "Andrew T Brenner",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing",
+      "note": "Here’s a new answer to the old question ‘why is there something rather than nothing?’ (It’s neither simple nor easy) - by Andrew T Brenner Read on…"
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 17,
+      "title": "The Four Forces That Shape Collective Memory",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-four-forces-that-shape-collective-memory-1286569/",
+      "note": "Why we all remember Napoleon’s…"
+    },
     {
       "field": "Technology",
       "minutes": 18,
@@ -19,33 +46,6 @@
       "publication": "Aeon",
       "url": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life",
       "note": "Roshi Joan Halifax is an original, generous, gritty and profound Buddhist teacher."
-    },
-    {
-      "field": "Philosophy & Culture",
-      "minutes": 22,
-      "title": "Equality talk",
-      "author": "Teresa M Bejan",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/historical-ideas-of-equality-help-us-imagine-an-equal-world",
-      "note": "In the summer of 1646, the idea of equality gained new and profound depths."
-    },
-    {
-      "field": "Philosophy",
-      "minutes": 20,
-      "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
-      "author": "Charlie Wood",
-      "publication": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
-      "note": "One of a human&rsquo;s earliest developmental milestones is an understanding of object permanence."
-    },
-    {
-      "field": "Physics",
-      "minutes": 17,
-      "title": "Celestial nuisance",
-      "author": "Dylan Jow",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions",
-      "note": "The cosmos has become a lab for the Big Questions in physics. Along the way, we’ve lost sight of its glorious messiness - by Dylan Jow Read on…"
     }
   ]
 }
