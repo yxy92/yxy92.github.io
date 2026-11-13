@@ -1,7 +1,25 @@
 {
-  "date": "2026-11-12",
-  "edition": 73,
+  "date": "2026-11-13",
+  "edition": 74,
   "reads": [
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 16,
+      "title": "Fugitive imagination",
+      "author": "Shahram Khosravi",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world",
+      "note": "Wherever people are confined, displaced, silenced or made disposable, fugitive forms of knowledge and imagination emerge - by Shahram Khosravi Read on…"
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 13,
+      "title": "When Envy is a Virtue",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/when-envy-is-a-virtue-1286615/",
+      "note": "Can this “deadly sin” help cultivate a constructive drive to better ourselves?"
+    },
     {
       "field": "Technology",
       "minutes": 14,
@@ -28,24 +46,6 @@
       "publication": "Nautilus",
       "url": "https://nautil.us/the-four-forces-that-shape-collective-memory-1286569/",
       "note": "Why we all remember Napoleon’s…"
-    },
-    {
-      "field": "Technology",
-      "minutes": 18,
-      "title": "When AIs Become Unruly Swarms",
-      "author": "Ben Bariach",
-      "publication": "Noema",
-      "url": "https://www.noemamag.com/when-ais-become-unruly-swarms",
-      "note": "In a harbor before dawn, a hundred fishing boats prepare to leave in the dark of the morning."
-    },
-    {
-      "field": "Philosophy & Culture",
-      "minutes": 26,
-      "title": "The wholehearted life",
-      "author": "Ben Daitz",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life",
-      "note": "Roshi Joan Halifax is an original, generous, gritty and profound Buddhist teacher."
     }
   ]
 }

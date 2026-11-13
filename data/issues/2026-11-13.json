@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-13",
+  "edition": 74,
+  "reads": [
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 16,
+      "title": "Fugitive imagination",
+      "author": "Shahram Khosravi",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world",
+      "note": "Wherever people are confined, displaced, silenced or made disposable, fugitive forms of knowledge and imagination emerge - by Shahram Khosravi Read on…"
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 13,
+      "title": "When Envy is a Virtue",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/when-envy-is-a-virtue-1286615/",
+      "note": "Can this “deadly sin” help cultivate a constructive drive to better ourselves?"
+    },
+    {
+      "field": "Technology",
+      "minutes": 14,
+      "title": "A Generation Revolts",
+      "author": "John Last",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/a-generation-revolts",
+      "note": "Across Europe, young people are being arrested in their thousands. In Milan, jackbooted soldiers from the Italian military — average age, 38 — haul protesters, some of whom are…"
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 18,
+      "title": "Why anything exists",
+      "author": "Andrew T Brenner",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing",
+      "note": "Here’s a new answer to the old question ‘why is there something rather than nothing?’ (It’s neither simple nor easy) - by Andrew T Brenner Read on…"
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 17,
+      "title": "The Four Forces That Shape Collective Memory",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-four-forces-that-shape-collective-memory-1286569/",
+      "note": "Why we all remember Napoleon’s…"
+    }
+  ]
+}
