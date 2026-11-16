@@ -1,7 +1,34 @@
 {
-  "date": "2026-11-15",
-  "edition": 76,
+  "date": "2026-11-16",
+  "edition": 77,
   "reads": [
+    {
+      "field": "Physics",
+      "minutes": 13,
+      "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
+      "author": "Charlie Wood",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+      "note": "Joshua Frieman remembers when the world found out that the universe was made of much more than just matter."
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 12,
+      "title": "Is Science a Mirror, a Game, or a Conversation?",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/is-science-a-mirror-a-game-or-a-conversation-1286671/",
+      "note": "What separates science from…"
+    },
+    {
+      "field": "History",
+      "minutes": 16,
+      "title": "The Animals Defying the Climate Odds at the Top of the World",
+      "author": "Nancy Langston",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-animals-defying-the-climate-odds-at-the-top-of-the-world-1286650/",
+      "note": "Svalbard’s reindeer are leaning on their hardscrabble history to adapt to a global…"
+    },
     {
       "field": "Philosophy & Culture",
       "minutes": 16,
@@ -19,33 +46,6 @@
       "publication": "Nautilus",
       "url": "https://nautil.us/when-envy-is-a-virtue-1286615/",
       "note": "Can this “deadly sin” help cultivate a constructive drive to better ourselves?"
-    },
-    {
-      "field": "Technology",
-      "minutes": 14,
-      "title": "A Generation Revolts",
-      "author": "John Last",
-      "publication": "Noema",
-      "url": "https://www.noemamag.com/a-generation-revolts",
-      "note": "Across Europe, young people are being arrested in their thousands. In Milan, jackbooted soldiers from the Italian military — average age, 38 — haul protesters, some of whom are…"
-    },
-    {
-      "field": "Philosophy & Culture",
-      "minutes": 18,
-      "title": "Why anything exists",
-      "author": "Andrew T Brenner",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing",
-      "note": "Here’s a new answer to the old question ‘why is there something rather than nothing?’ (It’s neither simple nor easy) - by Andrew T Brenner Read on…"
-    },
-    {
-      "field": "Science & Mind",
-      "minutes": 17,
-      "title": "The Four Forces That Shape Collective Memory",
-      "author": "Kristen French",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/the-four-forces-that-shape-collective-memory-1286569/",
-      "note": "Why we all remember Napoleon’s…"
     }
   ]
 }
