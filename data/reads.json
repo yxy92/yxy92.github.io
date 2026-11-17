@@ -1,7 +1,25 @@
 {
-  "date": "2026-11-16",
-  "edition": 77,
+  "date": "2026-11-17",
+  "edition": 78,
   "reads": [
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 14,
+      "title": "Catwalks and crackdowns",
+      "author": "Parisa Khoshnami",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran",
+      "note": "Women in Tehran are changing society by dressing as they choose, in numbers too large to stop."
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 10,
+      "title": "Sniffing Out the Link Between Odor and Disease",
+      "author": "Marta Zaraska",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/sniffing-out-the-link-between-odor-and-disease-1286689/",
+      "note": "Molecules that waft from breath, skin and urine can hold clues to Parkinson’s, cancer and other ills."
+    },
     {
       "field": "Physics",
       "minutes": 13,
@@ -28,24 +46,6 @@
       "publication": "Nautilus",
       "url": "https://nautil.us/the-animals-defying-the-climate-odds-at-the-top-of-the-world-1286650/",
       "note": "Svalbard’s reindeer are leaning on their hardscrabble history to adapt to a global…"
-    },
-    {
-      "field": "Philosophy & Culture",
-      "minutes": 16,
-      "title": "Fugitive imagination",
-      "author": "Shahram Khosravi",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world",
-      "note": "Wherever people are confined, displaced, silenced or made disposable, fugitive forms of knowledge and imagination emerge - by Shahram Khosravi Read on…"
-    },
-    {
-      "field": "Science & Mind",
-      "minutes": 13,
-      "title": "When Envy is a Virtue",
-      "author": "Kristen French",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/when-envy-is-a-virtue-1286615/",
-      "note": "Can this “deadly sin” help cultivate a constructive drive to better ourselves?"
     }
   ]
 }
