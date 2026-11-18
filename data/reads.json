@@ -1,7 +1,43 @@
 {
-  "date": "2026-11-17",
-  "edition": 78,
+  "date": "2026-11-18",
+  "edition": 79,
   "reads": [
+    {
+      "field": "Mathematics",
+      "minutes": 14,
+      "title": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds",
+      "author": "Shalma Wegsman",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
+      "note": "Maurits Cornelis Escher didn&rsquo;t plan on becoming the darling of mathematicians."
+    },
+    {
+      "field": "Technology",
+      "minutes": 13,
+      "title": "What China’s Gene-Editing Deaths Reveal About Its Biotech Industry",
+      "author": "Jane Qiu",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/what-chinas-gene-editing-deaths-reveal-about-its-biotech-industry",
+      "note": "BEIJING — In March 2023, four-year-old Mei in Shanghai was diagnosed with a rare genetic mutation linked to developmental delay and autism-like traits."
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 11,
+      "title": "The Speech Patterns of Psychoses",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-speech-patterns-of-psychoses-1286780/",
+      "note": "Exploring how people talk in the throes of mental health crises with McGill psychiatrist Lena…"
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 15,
+      "title": "Can Science Save the Ice Skaters?",
+      "author": "Tim Brinkhof",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/can-science-save-the-ice-skaters-1286773/",
+      "note": "Geoengineers have an ingenious plan to rescue the world’s most famous ice-skating race from global…"
+    },
     {
       "field": "Philosophy & Culture",
       "minutes": 14,
@@ -10,42 +46,6 @@
       "publication": "Aeon",
       "url": "https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran",
       "note": "Women in Tehran are changing society by dressing as they choose, in numbers too large to stop."
-    },
-    {
-      "field": "Science & Mind",
-      "minutes": 10,
-      "title": "Sniffing Out the Link Between Odor and Disease",
-      "author": "Marta Zaraska",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/sniffing-out-the-link-between-odor-and-disease-1286689/",
-      "note": "Molecules that waft from breath, skin and urine can hold clues to Parkinson’s, cancer and other ills."
-    },
-    {
-      "field": "Physics",
-      "minutes": 13,
-      "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
-      "author": "Charlie Wood",
-      "publication": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
-      "note": "Joshua Frieman remembers when the world found out that the universe was made of much more than just matter."
-    },
-    {
-      "field": "Science & Mind",
-      "minutes": 12,
-      "title": "Is Science a Mirror, a Game, or a Conversation?",
-      "author": "Kristen French",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/is-science-a-mirror-a-game-or-a-conversation-1286671/",
-      "note": "What separates science from…"
-    },
-    {
-      "field": "History",
-      "minutes": 16,
-      "title": "The Animals Defying the Climate Odds at the Top of the World",
-      "author": "Nancy Langston",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/the-animals-defying-the-climate-odds-at-the-top-of-the-world-1286650/",
-      "note": "Svalbard’s reindeer are leaning on their hardscrabble history to adapt to a global…"
     }
   ]
 }

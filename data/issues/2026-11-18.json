@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-18",
+  "edition": 79,
+  "reads": [
+    {
+      "field": "Mathematics",
+      "minutes": 14,
+      "title": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds",
+      "author": "Shalma Wegsman",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
+      "note": "Maurits Cornelis Escher didn&rsquo;t plan on becoming the darling of mathematicians."
+    },
+    {
+      "field": "Technology",
+      "minutes": 13,
+      "title": "What China’s Gene-Editing Deaths Reveal About Its Biotech Industry",
+      "author": "Jane Qiu",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/what-chinas-gene-editing-deaths-reveal-about-its-biotech-industry",
+      "note": "BEIJING — In March 2023, four-year-old Mei in Shanghai was diagnosed with a rare genetic mutation linked to developmental delay and autism-like traits."
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 11,
+      "title": "The Speech Patterns of Psychoses",
+      "author": "Kristen French",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-speech-patterns-of-psychoses-1286780/",
+      "note": "Exploring how people talk in the throes of mental health crises with McGill psychiatrist Lena…"
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 15,
+      "title": "Can Science Save the Ice Skaters?",
+      "author": "Tim Brinkhof",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/can-science-save-the-ice-skaters-1286773/",
+      "note": "Geoengineers have an ingenious plan to rescue the world’s most famous ice-skating race from global…"
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 14,
+      "title": "Catwalks and crackdowns",
+      "author": "Parisa Khoshnami",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran",
+      "note": "Women in Tehran are changing society by dressing as they choose, in numbers too large to stop."
+    }
+  ]
+}
