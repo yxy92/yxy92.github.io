@@ -1,51 +1,51 @@
 {
-  "date": "2026-11-18",
-  "edition": 79,
+  "date": "2026-11-19",
+  "edition": 80,
   "reads": [
     {
       "field": "Mathematics",
-      "minutes": 14,
-      "title": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds",
-      "author": "Shalma Wegsman",
-      "publication": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
-      "note": "Maurits Cornelis Escher didn&rsquo;t plan on becoming the darling of mathematicians."
+      "minutes": 17,
+      "title": "The End Of Extraction",
+      "author": "Benjamin Siegel",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/the-end-of-extraction",
+      "note": "In the middle of Norway’s Hardangerfjord, I steady myself against waves that jostle the floating metal ring that encircles an enormous fish pen."
     },
     {
       "field": "Technology",
-      "minutes": 13,
-      "title": "What China’s Gene-Editing Deaths Reveal About Its Biotech Industry",
-      "author": "Jane Qiu",
-      "publication": "Noema",
-      "url": "https://www.noemamag.com/what-chinas-gene-editing-deaths-reveal-about-its-biotech-industry",
-      "note": "BEIJING — In March 2023, four-year-old Mei in Shanghai was diagnosed with a rare genetic mutation linked to developmental delay and autism-like traits."
+      "minutes": 20,
+      "title": "At least it remembers",
+      "author": "Tom Wooldridge",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/what-would-parenting-by-ai-look-like",
+      "note": "Parents fear what AI will do to children. But for some, it’s the only steady presence they have – and that’s the real worry - by Tom Wooldridge Read on…"
     },
     {
-      "field": "Science & Mind",
-      "minutes": 11,
-      "title": "The Speech Patterns of Psychoses",
+      "field": "History",
+      "minutes": 14,
+      "title": "The Everlasting Life of Maxwell’s Demon",
+      "author": "Philip Ball",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-everlasting-life-of-maxwells-demon-1286802/",
+      "note": "How the great scientist’s thought experiment in the 19th century, which reconciled God and physics, remains vital in science…"
+    },
+    {
+      "field": "Technology",
+      "minutes": 18,
+      "title": "There is Still Time to Stall the AI Apocalypse",
       "author": "Kristen French",
       "publication": "Nautilus",
-      "url": "https://nautil.us/the-speech-patterns-of-psychoses-1286780/",
-      "note": "Exploring how people talk in the throes of mental health crises with McGill psychiatrist Lena…"
+      "url": "https://nautil.us/there-is-still-time-to-stall-the-ai-apocalypse-1286812/",
+      "note": "But it would require a new kind of chip that restricts…"
     },
     {
-      "field": "Science & Mind",
-      "minutes": 15,
-      "title": "Can Science Save the Ice Skaters?",
-      "author": "Tim Brinkhof",
+      "field": "Technology",
+      "minutes": 11,
+      "title": "Science After Super Intelligence",
+      "author": "Christopher P. Kempes",
       "publication": "Nautilus",
-      "url": "https://nautil.us/can-science-save-the-ice-skaters-1286773/",
-      "note": "Geoengineers have an ingenious plan to rescue the world’s most famous ice-skating race from global…"
-    },
-    {
-      "field": "Philosophy & Culture",
-      "minutes": 14,
-      "title": "Catwalks and crackdowns",
-      "author": "Parisa Khoshnami",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran",
-      "note": "Women in Tehran are changing society by dressing as they choose, in numbers too large to stop."
+      "url": "https://nautil.us/science-after-super-intelligence-1286807/",
+      "note": "Do scientists have anything left to do in the AI world? More than…"
     }
   ]
 }
