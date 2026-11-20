@@ -1,7 +1,34 @@
 {
-  "date": "2026-11-19",
-  "edition": 80,
+  "date": "2026-11-20",
+  "edition": 81,
   "reads": [
+    {
+      "field": "Technology",
+      "minutes": 10,
+      "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+      "author": "Ben Brubaker",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+      "note": "One evening in the fall of 1969, a team of researchers sent a historic message from a computer in Los Angeles to one in Menlo Park, California."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 18,
+      "title": "My grandmother was a seal",
+      "author": "Jordan Lee Borgman",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family",
+      "note": "Many Irish families believed they descended from selkies. Their stories reveal the violence and grief in our kinship with nature - by Jordan Lee Borgman Read on…"
+    },
+    {
+      "field": "Life & Earth",
+      "minutes": 16,
+      "title": "What Do Peahens Really Want?",
+      "author": "Regan Penaluna",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/what-do-peahens-really-want-1286840/",
+      "note": "A new chapter in evolutionary biology argues that animals’ bright colors and patterns are about more than just…"
+    },
     {
       "field": "Mathematics",
       "minutes": 17,
@@ -19,33 +46,6 @@
       "publication": "Aeon",
       "url": "https://aeon.co/essays/what-would-parenting-by-ai-look-like",
       "note": "Parents fear what AI will do to children. But for some, it’s the only steady presence they have – and that’s the real worry - by Tom Wooldridge Read on…"
-    },
-    {
-      "field": "History",
-      "minutes": 14,
-      "title": "The Everlasting Life of Maxwell’s Demon",
-      "author": "Philip Ball",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/the-everlasting-life-of-maxwells-demon-1286802/",
-      "note": "How the great scientist’s thought experiment in the 19th century, which reconciled God and physics, remains vital in science…"
-    },
-    {
-      "field": "Technology",
-      "minutes": 18,
-      "title": "There is Still Time to Stall the AI Apocalypse",
-      "author": "Kristen French",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/there-is-still-time-to-stall-the-ai-apocalypse-1286812/",
-      "note": "But it would require a new kind of chip that restricts…"
-    },
-    {
-      "field": "Technology",
-      "minutes": 11,
-      "title": "Science After Super Intelligence",
-      "author": "Christopher P. Kempes",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/science-after-super-intelligence-1286807/",
-      "note": "Do scientists have anything left to do in the AI world? More than…"
     }
   ]
 }
