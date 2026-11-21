@@ -1,7 +1,16 @@
 {
-  "date": "2026-11-20",
-  "edition": 81,
+  "date": "2026-11-21",
+  "edition": 82,
   "reads": [
+    {
+      "field": "Science & Mind",
+      "minutes": 13,
+      "title": "Why Are These Polar Bears Thriving?",
+      "author": "Elena Kazamia",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/why-are-these-polar-bears-thriving-1286870/",
+      "note": "Our writer journeys to northern Canada to investigate an environmental…"
+    },
     {
       "field": "Technology",
       "minutes": 10,
@@ -37,15 +46,6 @@
       "publication": "Noema",
       "url": "https://www.noemamag.com/the-end-of-extraction",
       "note": "In the middle of Norway’s Hardangerfjord, I steady myself against waves that jostle the floating metal ring that encircles an enormous fish pen."
-    },
-    {
-      "field": "Technology",
-      "minutes": 20,
-      "title": "At least it remembers",
-      "author": "Tom Wooldridge",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/what-would-parenting-by-ai-look-like",
-      "note": "Parents fear what AI will do to children. But for some, it’s the only steady presence they have – and that’s the real worry - by Tom Wooldridge Read on…"
     }
   ]
 }
