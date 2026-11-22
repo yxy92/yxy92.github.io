@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-22",
+  "edition": 83,
+  "reads": [
+    {
+      "field": "Science & Mind",
+      "minutes": 13,
+      "title": "Why Are These Polar Bears Thriving?",
+      "author": "Elena Kazamia",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/why-are-these-polar-bears-thriving-1286870/",
+      "note": "Our writer journeys to northern Canada to investigate an environmental…"
+    },
+    {
+      "field": "Technology",
+      "minutes": 10,
+      "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+      "author": "Ben Brubaker",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+      "note": "One evening in the fall of 1969, a team of researchers sent a historic message from a computer in Los Angeles to one in Menlo Park, California."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 18,
+      "title": "My grandmother was a seal",
+      "author": "Jordan Lee Borgman",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family",
+      "note": "Many Irish families believed they descended from selkies. Their stories reveal the violence and grief in our kinship with nature - by Jordan Lee Borgman Read on…"
+    },
+    {
+      "field": "Life & Earth",
+      "minutes": 16,
+      "title": "What Do Peahens Really Want?",
+      "author": "Regan Penaluna",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/what-do-peahens-really-want-1286840/",
+      "note": "A new chapter in evolutionary biology argues that animals’ bright colors and patterns are about more than just…"
+    },
+    {
+      "field": "Mathematics",
+      "minutes": 17,
+      "title": "The End Of Extraction",
+      "author": "Benjamin Siegel",
+      "publication": "Noema",
+      "url": "https://www.noemamag.com/the-end-of-extraction",
+      "note": "In the middle of Norway’s Hardangerfjord, I steady myself against waves that jostle the floating metal ring that encircles an enormous fish pen."
+    }
+  ]
+}
