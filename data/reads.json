@@ -1,51 +1,51 @@
 {
-  "date": "2026-11-22",
-  "edition": 83,
+  "date": "2026-11-23",
+  "edition": 84,
   "reads": [
     {
-      "field": "Science & Mind",
-      "minutes": 13,
-      "title": "Why Are These Polar Bears Thriving?",
-      "author": "Elena Kazamia",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/why-are-these-polar-bears-thriving-1286870/",
-      "note": "Our writer journeys to northern Canada to investigate an environmental…"
-    },
-    {
-      "field": "Technology",
+      "field": "Economics & Society",
       "minutes": 10,
-      "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
-      "author": "Ben Brubaker",
+      "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
+      "author": "Annie Melchor",
       "publication": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
-      "note": "One evening in the fall of 1969, a team of researchers sent a historic message from a computer in Los Angeles to one in Menlo Park, California."
+      "url": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
+      "note": "Humans have debated the meaning of life for many millennia, but from evolution&rsquo;s perspective, it is simple: Preserve the genome."
     },
     {
       "field": "Philosophy & Culture",
-      "minutes": 18,
-      "title": "My grandmother was a seal",
-      "author": "Jordan Lee Borgman",
+      "minutes": 20,
+      "title": "A colossal oscillation",
+      "author": "Dagomar Degroot",
       "publication": "Aeon",
-      "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family",
-      "note": "Many Irish families believed they descended from selkies. Their stories reveal the violence and grief in our kinship with nature - by Jordan Lee Borgman Read on…"
+      "url": "https://aeon.co/essays/what-can-we-learn-from-the-past-experience-of-el-nino",
+      "note": "El Niño has upended global weather, shaping the fate of societies, for millennia."
     },
     {
-      "field": "Life & Earth",
-      "minutes": 16,
-      "title": "What Do Peahens Really Want?",
-      "author": "Regan Penaluna",
+      "field": "Science & Mind",
+      "minutes": 11,
+      "title": "The Quest to Understand a Tick-Borne Allergy to Red Meat",
+      "author": "Amber Dance",
       "publication": "Nautilus",
-      "url": "https://nautil.us/what-do-peahens-really-want-1286840/",
-      "note": "A new chapter in evolutionary biology argues that animals’ bright colors and patterns are about more than just…"
+      "url": "https://nautil.us/the-quest-to-understand-a-tick-borne-allergy-to-red-meat-1286918/",
+      "note": "When alpha-gal syndrome first emerged, it was a baffling medical mystery."
     },
     {
-      "field": "Mathematics",
-      "minutes": 17,
-      "title": "The End Of Extraction",
-      "author": "Benjamin Siegel",
-      "publication": "Noema",
-      "url": "https://www.noemamag.com/the-end-of-extraction",
-      "note": "In the middle of Norway’s Hardangerfjord, I steady myself against waves that jostle the floating metal ring that encircles an enormous fish pen."
+      "field": "Science & Mind",
+      "minutes": 16,
+      "title": "The Fire Inside Me",
+      "author": "Anne Shibata Casselman",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-fire-inside-me-1286910/",
+      "note": "While researching the rising alarm over the impact of wildfires on babies in utero, I realized I was writing my own…"
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 10,
+      "title": "Is the Privatization of Space Sustainable?",
+      "author": "Leonard David",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/is-the-privatization-of-space-sustainable-1286928/",
+      "note": "A nearly 50-year-old treaty dictates international and commercial collaboration in space, but space law may need updating in the face of growing cosmic…"
     }
   ]
 }
