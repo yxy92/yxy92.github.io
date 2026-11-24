@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-24",
+  "edition": 85,
+  "reads": [
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 20,
+      "title": "Is mental illness universal?",
+      "author": "Alexander Pereira",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/are-mental-illnesses-universal-or-are-they-culturally-specific",
+      "note": "Do all cultures experience the same mental disorders? Or are our experiences of mental distress culturally specific?"
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 11,
+      "title": "The Flower with a Flame Inside",
+      "author": "Brandon Keim",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-flower-with-a-flame-inside-1286982/",
+      "note": "Behold the skunk cabbage. It produces the highest rate of energy of any organism on Earth."
+    },
+    {
+      "field": "Economics & Society",
+      "minutes": 10,
+      "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
+      "author": "Annie Melchor",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
+      "note": "Humans have debated the meaning of life for many millennia, but from evolution&rsquo;s perspective, it is simple: Preserve the genome."
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 20,
+      "title": "A colossal oscillation",
+      "author": "Dagomar Degroot",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/what-can-we-learn-from-the-past-experience-of-el-nino",
+      "note": "El Niño has upended global weather, shaping the fate of societies, for millennia."
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 11,
+      "title": "The Quest to Understand a Tick-Borne Allergy to Red Meat",
+      "author": "Amber Dance",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-quest-to-understand-a-tick-borne-allergy-to-red-meat-1286918/",
+      "note": "When alpha-gal syndrome first emerged, it was a baffling medical mystery."
+    }
+  ]
+}
