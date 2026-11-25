@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-25",
+  "edition": 86,
+  "reads": [
+    {
+      "field": "History",
+      "minutes": 12,
+      "title": "Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter",
+      "author": "Jay Bennett",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
+      "note": "For the most part, we are blind to the universe. Almost a century ago &mdash; in 1933, to be exact &mdash; Fritz Zwicky&rsquo;s studies of distant galaxies led him to suggest…"
+    },
+    {
+      "field": "Life & Earth",
+      "minutes": 11,
+      "title": "How Heat Made Life",
+      "author": "Viviane Callier",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/how-heat-made-life-1287012/",
+      "note": "A conversation with evolutionary biologist Olivia Judson about the central role of energy in the evolution of…"
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 20,
+      "title": "Is mental illness universal?",
+      "author": "Alexander Pereira",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/are-mental-illnesses-universal-or-are-they-culturally-specific",
+      "note": "Do all cultures experience the same mental disorders? Or are our experiences of mental distress culturally specific?"
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 11,
+      "title": "The Flower with a Flame Inside",
+      "author": "Brandon Keim",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-flower-with-a-flame-inside-1286982/",
+      "note": "Behold the skunk cabbage. It produces the highest rate of energy of any organism on Earth."
+    },
+    {
+      "field": "Economics & Society",
+      "minutes": 10,
+      "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
+      "author": "Annie Melchor",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
+      "note": "Humans have debated the meaning of life for many millennia, but from evolution&rsquo;s perspective, it is simple: Preserve the genome."
+    }
+  ]
+}

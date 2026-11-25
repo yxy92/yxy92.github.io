@@ -1,7 +1,25 @@
 {
-  "date": "2026-11-24",
-  "edition": 85,
+  "date": "2026-11-25",
+  "edition": 86,
   "reads": [
+    {
+      "field": "History",
+      "minutes": 12,
+      "title": "Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter",
+      "author": "Jay Bennett",
+      "publication": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
+      "note": "For the most part, we are blind to the universe. Almost a century ago &mdash; in 1933, to be exact &mdash; Fritz Zwicky&rsquo;s studies of distant galaxies led him to suggest…"
+    },
+    {
+      "field": "Life & Earth",
+      "minutes": 11,
+      "title": "How Heat Made Life",
+      "author": "Viviane Callier",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/how-heat-made-life-1287012/",
+      "note": "A conversation with evolutionary biologist Olivia Judson about the central role of energy in the evolution of…"
+    },
     {
       "field": "Philosophy & Culture",
       "minutes": 20,
@@ -28,24 +46,6 @@
       "publication": "Quanta Magazine",
       "url": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
       "note": "Humans have debated the meaning of life for many millennia, but from evolution&rsquo;s perspective, it is simple: Preserve the genome."
-    },
-    {
-      "field": "Philosophy & Culture",
-      "minutes": 20,
-      "title": "A colossal oscillation",
-      "author": "Dagomar Degroot",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/what-can-we-learn-from-the-past-experience-of-el-nino",
-      "note": "El Niño has upended global weather, shaping the fate of societies, for millennia."
-    },
-    {
-      "field": "Science & Mind",
-      "minutes": 11,
-      "title": "The Quest to Understand a Tick-Borne Allergy to Red Meat",
-      "author": "Amber Dance",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/the-quest-to-understand-a-tick-borne-allergy-to-red-meat-1286918/",
-      "note": "When alpha-gal syndrome first emerged, it was a baffling medical mystery."
     }
   ]
 }
