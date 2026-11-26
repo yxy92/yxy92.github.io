@@ -1,7 +1,34 @@
 {
-  "date": "2026-11-25",
-  "edition": 86,
+  "date": "2026-11-26",
+  "edition": 87,
   "reads": [
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 21,
+      "title": "The pretendian wars",
+      "author": "Dina Gilio-Whitaker",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/falsely-claiming-indigenous-identity-is-a-grave-form-of-theft",
+      "note": "To falsely claim Indigenous identity is not a frivolous mistake. It’s a grave theft, and the stakes are getting higher - by Dina Gilio-Whitaker Read on…"
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 10,
+      "title": "The Rise of the Fire Creatures",
+      "author": "Olivia Judson",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-rise-of-the-fire-creatures-1287034/",
+      "note": "When human beings learned to tame heat and light we became a different species…"
+    },
+    {
+      "field": "Life & Earth",
+      "minutes": 11,
+      "title": "The Scientist Who Wants to Save Cranberries",
+      "author": "Bob Grant",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-scientist-who-wants-to-save-cranberries-1287118/",
+      "note": "A conversation with a Salk Institute plant genomicist, and cranberry fanatic, on his research into improving the fate of the Thanksgiving…"
+    },
     {
       "field": "History",
       "minutes": 12,
@@ -19,33 +46,6 @@
       "publication": "Nautilus",
       "url": "https://nautil.us/how-heat-made-life-1287012/",
       "note": "A conversation with evolutionary biologist Olivia Judson about the central role of energy in the evolution of…"
-    },
-    {
-      "field": "Philosophy & Culture",
-      "minutes": 20,
-      "title": "Is mental illness universal?",
-      "author": "Alexander Pereira",
-      "publication": "Aeon",
-      "url": "https://aeon.co/essays/are-mental-illnesses-universal-or-are-they-culturally-specific",
-      "note": "Do all cultures experience the same mental disorders? Or are our experiences of mental distress culturally specific?"
-    },
-    {
-      "field": "Science & Mind",
-      "minutes": 11,
-      "title": "The Flower with a Flame Inside",
-      "author": "Brandon Keim",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/the-flower-with-a-flame-inside-1286982/",
-      "note": "Behold the skunk cabbage. It produces the highest rate of energy of any organism on Earth."
-    },
-    {
-      "field": "Economics & Society",
-      "minutes": 10,
-      "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
-      "author": "Annie Melchor",
-      "publication": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
-      "note": "Humans have debated the meaning of life for many millennia, but from evolution&rsquo;s perspective, it is simple: Preserve the genome."
     }
   ]
 }
