@@ -1,7 +1,25 @@
 {
-  "date": "2026-11-26",
-  "edition": 87,
+  "date": "2026-11-27",
+  "edition": 88,
   "reads": [
+    {
+      "field": "Mind",
+      "minutes": 15,
+      "title": "The energy of thought",
+      "author": "David Colaço & Philipp Haueis",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/all-our-models-of-how-the-mind-functions-are-missing-something",
+      "note": "We have an astonishing number of models of how the mind works. All of them neglect something essential - by David Colaço & Philipp Haueis Read on…"
+    },
+    {
+      "field": "Life & Earth",
+      "minutes": 12,
+      "title": "The Art That Asks: How Did We Let This Happen?",
+      "author": "Joshua Shannon",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-art-that-asks-how-did-we-let-this-happen-1287040/",
+      "note": "Photographs by Edward Burtynsky show us how climate-change art can light a path out of…"
+    },
     {
       "field": "Philosophy & Culture",
       "minutes": 21,
@@ -28,24 +46,6 @@
       "publication": "Nautilus",
       "url": "https://nautil.us/the-scientist-who-wants-to-save-cranberries-1287118/",
       "note": "A conversation with a Salk Institute plant genomicist, and cranberry fanatic, on his research into improving the fate of the Thanksgiving…"
-    },
-    {
-      "field": "History",
-      "minutes": 12,
-      "title": "Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter",
-      "author": "Jay Bennett",
-      "publication": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
-      "note": "For the most part, we are blind to the universe. Almost a century ago &mdash; in 1933, to be exact &mdash; Fritz Zwicky&rsquo;s studies of distant galaxies led him to suggest…"
-    },
-    {
-      "field": "Life & Earth",
-      "minutes": 11,
-      "title": "How Heat Made Life",
-      "author": "Viviane Callier",
-      "publication": "Nautilus",
-      "url": "https://nautil.us/how-heat-made-life-1287012/",
-      "note": "A conversation with evolutionary biologist Olivia Judson about the central role of energy in the evolution of…"
     }
   ]
 }

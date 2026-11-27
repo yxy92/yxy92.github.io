@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-27",
+  "edition": 88,
+  "reads": [
+    {
+      "field": "Mind",
+      "minutes": 15,
+      "title": "The energy of thought",
+      "author": "David Colaço & Philipp Haueis",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/all-our-models-of-how-the-mind-functions-are-missing-something",
+      "note": "We have an astonishing number of models of how the mind works. All of them neglect something essential - by David Colaço & Philipp Haueis Read on…"
+    },
+    {
+      "field": "Life & Earth",
+      "minutes": 12,
+      "title": "The Art That Asks: How Did We Let This Happen?",
+      "author": "Joshua Shannon",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-art-that-asks-how-did-we-let-this-happen-1287040/",
+      "note": "Photographs by Edward Burtynsky show us how climate-change art can light a path out of…"
+    },
+    {
+      "field": "Philosophy & Culture",
+      "minutes": 21,
+      "title": "The pretendian wars",
+      "author": "Dina Gilio-Whitaker",
+      "publication": "Aeon",
+      "url": "https://aeon.co/essays/falsely-claiming-indigenous-identity-is-a-grave-form-of-theft",
+      "note": "To falsely claim Indigenous identity is not a frivolous mistake. It’s a grave theft, and the stakes are getting higher - by Dina Gilio-Whitaker Read on…"
+    },
+    {
+      "field": "Science & Mind",
+      "minutes": 10,
+      "title": "The Rise of the Fire Creatures",
+      "author": "Olivia Judson",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-rise-of-the-fire-creatures-1287034/",
+      "note": "When human beings learned to tame heat and light we became a different species…"
+    },
+    {
+      "field": "Life & Earth",
+      "minutes": 11,
+      "title": "The Scientist Who Wants to Save Cranberries",
+      "author": "Bob Grant",
+      "publication": "Nautilus",
+      "url": "https://nautil.us/the-scientist-who-wants-to-save-cranberries-1287118/",
+      "note": "A conversation with a Salk Institute plant genomicist, and cranberry fanatic, on his research into improving the fate of the Thanksgiving…"
+    }
+  ]
+}
